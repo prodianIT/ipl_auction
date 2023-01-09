@@ -9,7 +9,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import base64
 
-st.set_page_config(page_title="RSGI Dashboard", page_icon=":bar_chart:", layout="wide")
+st.set_page_config(page_title="IPL auction Dashboard", page_icon=":bar_chart:", layout="wide")
 # ---- SIDEBAR ----
 
 df = pd.read_csv('csk aution data - IPL 2023 AUCTION BID BY BID DET.csv')
@@ -34,7 +34,7 @@ df6=df6[['Team','min', 'max', 'Is_awarded']]
 #
 # # a['age'] = this_year - a['year_of_manufacture']
 # ---- MAINPAGE ----
-st.title(":bar_chart: RSGI Dashboard")
+st.title(":bar_chart: IPL auction Data")
 st.markdown("##")
 # Create the box plot
 # fig = sns.boxplot(x='Team', y='Bid_amount', data=a, hue='Team')
