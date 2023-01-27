@@ -75,6 +75,7 @@ if top_level_menu == "Team wise report":
         dfa.reset_index(inplace=True)
         dfa.rename(columns={'index': 'player'}, inplace=True)
         dfa = dfa.sort_values(by="count", ascending=False)
+        st.write("Player name and The Number of years they played for",Team )
         st.dataframe(dfa)
 
 
