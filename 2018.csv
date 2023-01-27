@@ -1,0 +1,1001 @@
+bid_seq,Sno,name,country,isindian,speciality,Batting_handedness,Bowling_handedness,team_name,bid_amt,base_price,est_auc_prc,Status
+422,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"KINGS XI PUNJAB",200,200,NULL,Unsold
+423,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"RAJASTHAN ROYALS",220,200,NULL,Unsold
+424,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"KINGS XI PUNJAB",240,200,NULL,Unsold
+425,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"RAJASTHAN ROYALS",260,200,NULL,Unsold
+426,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"KINGS XI PUNJAB",280,200,NULL,Unsold
+427,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"RAJASTHAN ROYALS",300,200,NULL,Unsold
+428,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"KINGS XI PUNJAB",320,200,NULL,Unsold
+429,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"RAJASTHAN ROYALS",340,200,NULL,Unsold
+430,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"RAJASTHAN ROYALS",350,200,NULL,Unsold
+432,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"KINGS XI PUNJAB",360,200,NULL,Unsold
+433,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"KINGS XI PUNJAB",370,200,NULL,Unsold
+434,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"KINGS XI PUNJAB",380,200,NULL,Unsold
+435,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"KINGS XI PUNJAB",390,200,NULL,Unsold
+436,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"KINGS XI PUNJAB",400,200,NULL,Unsold
+438,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"MUMBAI INDIANS",420,200,NULL,Unsold
+439,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"KINGS XI PUNJAB",440,200,NULL,Unsold
+440,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"MUMBAI INDIANS",460,200,NULL,Unsold
+441,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"MUMBAI INDIANS",480,200,NULL,Unsold
+442,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"MUMBAI INDIANS",500,200,NULL,Unsold
+443,2,"Shikhar Dhawan",India,Indian,"Opening Batsman",LHB,-,"SUNRISERS HYDERABAD",520,200,NULL,Sold
+444,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",200,200,NULL,Unsold
+445,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","CHENNAI SUPER KINGS",220,200,NULL,Unsold
+446,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","CHENNAI SUPER KINGS",240,200,NULL,Unsold
+447,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","CHENNAI SUPER KINGS",260,200,NULL,Unsold
+448,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",280,200,NULL,Unsold
+449,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","CHENNAI SUPER KINGS",300,200,NULL,Unsold
+450,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","CHENNAI SUPER KINGS",320,200,NULL,Unsold
+451,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","CHENNAI SUPER KINGS",340,200,NULL,Unsold
+452,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","CHENNAI SUPER KINGS",360,200,NULL,Unsold
+453,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","CHENNAI SUPER KINGS",380,200,NULL,Unsold
+455,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",400,200,NULL,Unsold
+456,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","RAJASTHAN ROYALS",420,200,NULL,Unsold
+457,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",440,200,NULL,Unsold
+458,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","RAJASTHAN ROYALS",460,200,NULL,Unsold
+459,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",480,200,NULL,Unsold
+460,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","RAJASTHAN ROYALS",500,200,NULL,Unsold
+461,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",520,200,NULL,Unsold
+462,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","RAJASTHAN ROYALS",540,200,NULL,Unsold
+463,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",560,200,NULL,Unsold
+464,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","RAJASTHAN ROYALS",580,200,NULL,Unsold
+465,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",600,200,NULL,Unsold
+466,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","RAJASTHAN ROYALS",620,200,NULL,Unsold
+467,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",640,200,NULL,Unsold
+468,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","RAJASTHAN ROYALS",660,200,NULL,Unsold
+469,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",680,200,NULL,Unsold
+470,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","RAJASTHAN ROYALS",700,200,NULL,Unsold
+471,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",720,200,NULL,Unsold
+472,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","RAJASTHAN ROYALS",740,200,NULL,Unsold
+473,1,"Ravichandran Ashwin",India,Indian,"Coming in Spinner",RHB,"RA Off Break","KINGS XI PUNJAB",760,200,NULL,Sold
+474,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","KINGS XI PUNJAB",200,200,NULL,Unsold
+475,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","MUMBAI INDIANS",220,200,NULL,Unsold
+477,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","KINGS XI PUNJAB",240,200,NULL,Unsold
+478,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","MUMBAI INDIANS",260,200,NULL,Unsold
+479,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","MUMBAI INDIANS",280,200,NULL,Unsold
+480,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","MUMBAI INDIANS",300,200,NULL,Unsold
+482,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","KINGS XI PUNJAB",320,200,NULL,Unsold
+483,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","KINGS XI PUNJAB",340,200,NULL,Unsold
+484,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","KINGS XI PUNJAB",360,200,NULL,Unsold
+485,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","MUMBAI INDIANS",380,200,NULL,Unsold
+486,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","KINGS XI PUNJAB",400,200,NULL,Unsold
+487,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","DELHI DARE DEVILS",420,200,NULL,Unsold
+488,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","KINGS XI PUNJAB",440,200,NULL,Unsold
+489,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","DELHI DARE DEVILS",460,200,NULL,Unsold
+490,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","KINGS XI PUNJAB",480,200,NULL,Unsold
+491,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","DELHI DARE DEVILS",500,200,NULL,Unsold
+492,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","DELHI DARE DEVILS",520,200,NULL,Unsold
+493,5,"Kieron Pollard","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","DELHI DARE DEVILS",540,200,NULL,Unsold
+495,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",200,200,NULL,Unsold
+496,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",220,200,NULL,Unsold
+497,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",240,200,NULL,Unsold
+498,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",260,200,NULL,Unsold
+499,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",280,200,NULL,Unsold
+500,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",300,200,NULL,Unsold
+501,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",320,200,NULL,Unsold
+502,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",340,200,NULL,Unsold
+503,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",360,200,NULL,Unsold
+504,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",380,200,NULL,Unsold
+505,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",400,200,NULL,Unsold
+506,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",420,200,NULL,Unsold
+507,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",440,200,NULL,Unsold
+508,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",460,200,NULL,Unsold
+509,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",480,200,NULL,Unsold
+511,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",500,200,NULL,Unsold
+512,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",520,200,NULL,Unsold
+513,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",540,200,NULL,Unsold
+514,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",560,200,NULL,Unsold
+515,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",580,200,NULL,Unsold
+516,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",600,200,NULL,Unsold
+517,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",620,200,NULL,Unsold
+518,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","CHENNAI SUPER KINGS",640,200,NULL,Unsold
+519,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",660,200,NULL,Unsold
+520,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",680,200,NULL,Unsold
+521,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",700,200,NULL,Unsold
+522,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",720,200,NULL,Unsold
+523,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",740,200,NULL,Unsold
+524,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",760,200,NULL,Unsold
+525,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",780,200,NULL,Unsold
+527,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",800,200,NULL,Unsold
+528,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",820,200,NULL,Unsold
+529,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",840,200,NULL,Unsold
+530,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",860,200,NULL,Unsold
+531,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",880,200,NULL,Unsold
+532,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",900,200,NULL,Unsold
+535,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",920,200,NULL,Unsold
+536,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",940,200,NULL,Unsold
+537,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",960,200,NULL,Unsold
+538,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",980,200,NULL,Unsold
+539,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",1000,200,NULL,Unsold
+540,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",1050,200,NULL,Unsold
+541,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",1100,200,NULL,Unsold
+542,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KOLKATA KNIGHT RIDERS",1150,200,NULL,Unsold
+543,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","KINGS XI PUNJAB",1200,200,NULL,Unsold
+544,8,"Ben Stokes",England,Foreigner,"Bat All Rounder",LHB,"RA Medium Fast","RAJASTHAN ROYALS",1250,200,NULL,Sold
+545,3,"Faf Du Plessis","South Africa",Foreigner,"Top Order Bat",RHB,"RA Leg Break","CHENNAI SUPER KINGS",150,150,NULL,Unsold
+546,3,"Faf Du Plessis","South Africa",Foreigner,"Top Order Bat",RHB,"RA Leg Break","CHENNAI SUPER KINGS",160,150,NULL,Sold
+547,6,"Ajinkya Rahane",India,Indian,"Opening Batsman",RHB,-,"KINGS XI PUNJAB",200,200,NULL,Unsold
+548,6,"Ajinkya Rahane",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",220,200,NULL,Unsold
+549,6,"Ajinkya Rahane",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",240,200,NULL,Unsold
+550,6,"Ajinkya Rahane",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",260,200,NULL,Unsold
+551,6,"Ajinkya Rahane",India,Indian,"Opening Batsman",RHB,-,"KINGS XI PUNJAB",280,200,NULL,Unsold
+552,6,"Ajinkya Rahane",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",300,200,NULL,Unsold
+553,6,"Ajinkya Rahane",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",320,200,NULL,Unsold
+554,6,"Ajinkya Rahane",India,Indian,"Opening Batsman",RHB,-,"KINGS XI PUNJAB",340,200,NULL,Unsold
+555,6,"Ajinkya Rahane",India,Indian,"Opening Batsman",RHB,-,"KINGS XI PUNJAB",360,200,NULL,Unsold
+556,6,"Ajinkya Rahane",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",380,200,NULL,Unsold
+558,6,"Ajinkya Rahane",India,Indian,"Opening Batsman",RHB,-,"RAJASTHAN ROYALS",400,200,NULL,Sold
+559,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",200,200,NULL,Unsold
+560,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",220,200,NULL,Unsold
+561,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",240,200,NULL,Unsold
+562,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",260,200,NULL,Unsold
+565,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",280,200,NULL,Unsold
+566,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",300,200,NULL,Unsold
+567,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",320,200,NULL,Unsold
+568,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",340,200,NULL,Unsold
+569,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",360,200,NULL,Unsold
+570,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",380,200,NULL,Unsold
+571,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",400,200,NULL,Unsold
+572,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",420,200,NULL,Unsold
+573,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",440,200,NULL,Unsold
+574,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",460,200,NULL,Unsold
+575,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",480,200,NULL,Unsold
+576,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",500,200,NULL,Unsold
+577,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",520,200,NULL,Unsold
+578,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",540,200,NULL,Unsold
+579,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",560,200,NULL,Unsold
+580,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",580,200,NULL,Unsold
+581,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",600,200,NULL,Unsold
+582,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",620,200,NULL,Unsold
+583,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",640,200,NULL,Unsold
+584,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",660,200,NULL,Unsold
+585,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",680,200,NULL,Unsold
+586,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",700,200,NULL,Unsold
+587,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",720,200,NULL,Unsold
+588,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",740,200,NULL,Unsold
+589,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",760,200,NULL,Unsold
+590,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",780,200,NULL,Unsold
+591,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",800,200,NULL,Unsold
+592,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",820,200,NULL,Unsold
+593,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",840,200,NULL,Unsold
+594,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",860,200,NULL,Unsold
+595,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",880,200,NULL,Unsold
+596,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",900,200,NULL,Unsold
+597,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KINGS XI PUNJAB",920,200,NULL,Unsold
+598,7,"Mitchell Starc",Australia,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast","KOLKATA KNIGHT RIDERS",940,200,NULL,Sold
+599,14,"Harbhajan Singh",India,Indian,"Coming in Spinner",RHB,"RA Off Break","CHENNAI SUPER KINGS",200,200,NULL,Sold
+600,11,"Shakib Hasan",Bangladesh,Foreigner,"Bowl All Rounder",LHB,"LA Slow Orthodox","SUNRISERS HYDERABAD",100,100,NULL,Unsold
+601,11,"Shakib Hasan",Bangladesh,Foreigner,"Bowl All Rounder",LHB,"LA Slow Orthodox","KOLKATA KNIGHT RIDERS",110,100,NULL,Unsold
+604,11,"Shakib Hasan",Bangladesh,Foreigner,"Bowl All Rounder",LHB,"LA Slow Orthodox","SUNRISERS HYDERABAD",120,100,NULL,Unsold
+605,11,"Shakib Hasan",Bangladesh,Foreigner,"Bowl All Rounder",LHB,"LA Slow Orthodox","KOLKATA KNIGHT RIDERS",130,100,NULL,Unsold
+606,11,"Shakib Hasan",Bangladesh,Foreigner,"Bowl All Rounder",LHB,"LA Slow Orthodox","SUNRISERS HYDERABAD",140,100,NULL,Unsold
+607,11,"Shakib Hasan",Bangladesh,Foreigner,"Bowl All Rounder",LHB,"LA Slow Orthodox","RAJASTHAN ROYALS",150,100,NULL,Unsold
+608,11,"Shakib Hasan",Bangladesh,Foreigner,"Bowl All Rounder",LHB,"LA Slow Orthodox","KOLKATA KNIGHT RIDERS",160,100,NULL,Unsold
+609,11,"Shakib Hasan",Bangladesh,Foreigner,"Bowl All Rounder",LHB,"LA Slow Orthodox","RAJASTHAN ROYALS",170,100,NULL,Unsold
+610,11,"Shakib Hasan",Bangladesh,Foreigner,"Bowl All Rounder",LHB,"LA Slow Orthodox","RAJASTHAN ROYALS",180,100,NULL,Unsold
+611,11,"Shakib Hasan",Bangladesh,Foreigner,"Bowl All Rounder",LHB,"LA Slow Orthodox","RAJASTHAN ROYALS",190,100,NULL,Unsold
+612,11,"Shakib Hasan",Bangladesh,Foreigner,"Bowl All Rounder",LHB,"LA Slow Orthodox","SUNRISERS HYDERABAD",200,100,NULL,Sold
+613,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",200,200,NULL,Unsold
+614,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",220,200,NULL,Unsold
+615,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",240,200,NULL,Unsold
+616,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",260,200,NULL,Unsold
+617,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",280,200,NULL,Unsold
+618,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",300,200,NULL,Unsold
+619,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",320,200,NULL,Unsold
+620,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",340,200,NULL,Unsold
+621,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",360,200,NULL,Unsold
+622,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",380,200,NULL,Unsold
+623,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",400,200,NULL,Unsold
+624,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",420,200,NULL,Unsold
+625,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",440,200,NULL,Unsold
+626,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",460,200,NULL,Unsold
+627,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",480,200,NULL,Unsold
+628,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",500,200,NULL,Unsold
+631,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",520,200,NULL,Unsold
+632,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",540,200,NULL,Unsold
+633,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",560,200,NULL,Unsold
+634,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",580,200,NULL,Unsold
+635,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",600,200,NULL,Unsold
+637,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",620,200,NULL,Unsold
+638,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",640,200,NULL,Unsold
+639,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",660,200,NULL,Unsold
+640,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",680,200,NULL,Unsold
+641,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","DELHI DARE DEVILS",700,200,NULL,Unsold
+642,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",720,200,NULL,Unsold
+643,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","DELHI DARE DEVILS",740,200,NULL,Unsold
+644,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",760,200,NULL,Unsold
+645,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","DELHI DARE DEVILS",780,200,NULL,Unsold
+646,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",800,200,NULL,Unsold
+647,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","DELHI DARE DEVILS",820,200,NULL,Unsold
+648,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",840,200,NULL,Unsold
+649,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","DELHI DARE DEVILS",860,200,NULL,Unsold
+650,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",880,200,NULL,Unsold
+651,12,"Glenn Maxwell",Australia,Foreigner,"Top Order Bat",RHB,"RA Off Break","DELHI DARE DEVILS",900,200,NULL,Sold
+652,10,"Gautam Gambhir",India,Indian,"Opening Batsman",LHB,"RA Leg Break","DELHI DARE DEVILS",200,200,NULL,Unsold
+653,10,"Gautam Gambhir",India,Indian,"Opening Batsman",LHB,"RA Leg Break","RAJASTHAN ROYALS",220,200,NULL,Unsold
+654,10,"Gautam Gambhir",India,Indian,"Opening Batsman",LHB,"RA Leg Break","DELHI DARE DEVILS",240,200,NULL,Unsold
+655,10,"Gautam Gambhir",India,Indian,"Opening Batsman",LHB,"RA Leg Break","KINGS XI PUNJAB",260,200,NULL,Unsold
+656,10,"Gautam Gambhir",India,Indian,"Opening Batsman",LHB,"RA Leg Break","DELHI DARE DEVILS",280,200,NULL,Sold
+657,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","KINGS XI PUNJAB",200,200,NULL,Unsold
+658,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","KINGS XI PUNJAB",220,200,NULL,Unsold
+659,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","RAJASTHAN ROYALS",240,200,NULL,Unsold
+660,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","MUMBAI INDIANS",260,200,NULL,Unsold
+661,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","MUMBAI INDIANS",280,200,NULL,Unsold
+662,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","MUMBAI INDIANS",300,200,NULL,Unsold
+663,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","KINGS XI PUNJAB",320,200,NULL,Unsold
+664,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","MUMBAI INDIANS",340,200,NULL,Unsold
+665,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","KINGS XI PUNJAB",360,200,NULL,Unsold
+668,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","KINGS XI PUNJAB",380,200,NULL,Unsold
+669,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","KINGS XI PUNJAB",400,200,NULL,Unsold
+670,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","MUMBAI INDIANS",420,200,NULL,Unsold
+671,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","MUMBAI INDIANS",440,200,NULL,Unsold
+672,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","MUMBAI INDIANS",460,200,NULL,Unsold
+673,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","MUMBAI INDIANS",480,200,NULL,Unsold
+674,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","MUMBAI INDIANS",500,200,NULL,Unsold
+675,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","KINGS XI PUNJAB",520,200,NULL,Unsold
+676,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","KINGS XI PUNJAB",540,200,NULL,Unsold
+677,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","KINGS XI PUNJAB",560,200,NULL,Unsold
+678,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","MUMBAI INDIANS",580,200,NULL,Unsold
+679,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","KINGS XI PUNJAB",600,200,NULL,Unsold
+680,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","KINGS XI PUNJAB",620,200,NULL,Unsold
+681,9,"Dwayne Bravo","West Indies",Foreigner,"Bowl All Rounder",RHB,"RA Medium","CHENNAI SUPER KINGS",640,200,NULL,Sold
+682,16,"Kane Williamson","New Zealand",Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",150,150,NULL,Unsold
+683,16,"Kane Williamson","New Zealand",Foreigner,"Top Order Bat",RHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",160,150,NULL,Unsold
+684,16,"Kane Williamson","New Zealand",Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",170,150,NULL,Unsold
+685,16,"Kane Williamson","New Zealand",Foreigner,"Top Order Bat",RHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",180,150,NULL,Unsold
+686,16,"Kane Williamson","New Zealand",Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",190,150,NULL,Unsold
+688,16,"Kane Williamson","New Zealand",Foreigner,"Top Order Bat",RHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",200,150,NULL,Unsold
+689,16,"Kane Williamson","New Zealand",Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",220,150,NULL,Unsold
+690,16,"Kane Williamson","New Zealand",Foreigner,"Top Order Bat",RHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",240,150,NULL,Unsold
+691,16,"Kane Williamson","New Zealand",Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",260,150,NULL,Unsold
+692,16,"Kane Williamson","New Zealand",Foreigner,"Top Order Bat",RHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",280,150,NULL,Unsold
+693,16,"Kane Williamson","New Zealand",Foreigner,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",300,150,NULL,Sold
+694,15,"Yuvraj Singh",India,Indian,"Bat All Rounder",LHB,"LA Slow Orthodox","KINGS XI PUNJAB",200,200,NULL,Sold
+695,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",50,50,NULL,Unsold
+696,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",55,50,NULL,Unsold
+697,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",60,50,NULL,Unsold
+698,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",65,50,NULL,Unsold
+699,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",70,50,NULL,Unsold
+700,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",75,50,NULL,Unsold
+701,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",80,50,NULL,Unsold
+702,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",85,50,NULL,Unsold
+703,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",90,50,NULL,Unsold
+704,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",95,50,NULL,Unsold
+705,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",100,50,NULL,Unsold
+706,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",110,50,NULL,Unsold
+707,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",120,50,NULL,Unsold
+708,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",130,50,NULL,Unsold
+709,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",140,50,NULL,Unsold
+710,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",150,50,NULL,Unsold
+711,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",160,50,NULL,Unsold
+712,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",170,50,NULL,Unsold
+713,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",180,50,NULL,Unsold
+714,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",190,50,NULL,Unsold
+715,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",200,50,NULL,Unsold
+716,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",220,50,NULL,Unsold
+717,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",240,50,NULL,Unsold
+718,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",260,50,NULL,Unsold
+719,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",280,50,NULL,Unsold
+720,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",300,50,NULL,Unsold
+721,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",320,50,NULL,Unsold
+722,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",340,50,NULL,Unsold
+723,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",360,50,NULL,Unsold
+724,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",380,50,NULL,Unsold
+725,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",400,50,NULL,Unsold
+726,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",420,50,NULL,Unsold
+727,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",440,50,NULL,Unsold
+728,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",460,50,NULL,Unsold
+729,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",480,50,NULL,Unsold
+730,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",500,50,NULL,Unsold
+731,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",520,50,NULL,Unsold
+732,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",540,50,NULL,Unsold
+733,24,"Karun Nair",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",560,50,NULL,Sold
+734,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",200,200,NULL,Unsold
+735,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",220,200,NULL,Unsold
+736,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",240,200,NULL,Unsold
+737,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",260,200,NULL,Unsold
+738,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",280,200,NULL,Unsold
+739,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",300,200,NULL,Unsold
+740,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",320,200,NULL,Unsold
+741,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",340,200,NULL,Unsold
+742,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",360,200,NULL,Unsold
+743,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",380,200,NULL,Unsold
+744,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",400,200,NULL,Unsold
+745,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",420,200,NULL,Unsold
+746,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",440,200,NULL,Unsold
+747,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",460,200,NULL,Unsold
+748,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",480,200,NULL,Unsold
+749,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",500,200,NULL,Unsold
+751,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",520,200,NULL,Unsold
+752,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",540,200,NULL,Unsold
+753,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",560,200,NULL,Unsold
+754,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"MUMBAI INDIANS",580,200,NULL,Unsold
+755,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"RAJASTHAN ROYALS",600,200,NULL,Unsold
+756,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",620,200,NULL,Unsold
+757,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"KINGS XI PUNJAB",640,200,NULL,Unsold
+758,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",660,200,NULL,Unsold
+759,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",680,200,NULL,Unsold
+760,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",700,200,NULL,Unsold
+761,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",720,200,NULL,Unsold
+762,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",740,200,NULL,Unsold
+763,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"KINGS XI PUNJAB",760,200,NULL,Unsold
+764,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",780,200,NULL,Unsold
+765,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",800,200,NULL,Unsold
+766,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",820,200,NULL,Unsold
+767,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",840,200,NULL,Unsold
+768,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",860,200,NULL,Unsold
+769,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"KINGS XI PUNJAB",880,200,NULL,Unsold
+770,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",900,200,NULL,Unsold
+771,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",920,200,NULL,Unsold
+772,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",940,200,NULL,Unsold
+773,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"KINGS XI PUNJAB",960,200,NULL,Unsold
+774,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",980,200,NULL,Unsold
+775,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"KINGS XI PUNJAB",1000,200,NULL,Unsold
+776,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",1020,200,NULL,Unsold
+777,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",1040,200,NULL,Unsold
+779,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"SUNRISERS HYDERABAD",1050,200,NULL,Unsold
+780,26,"KL Rahul",India,Indian,"Opening Batsman",RHB,-,"KINGS XI PUNJAB",1100,200,NULL,Sold
+781,22,"David Miller","South Africa",Foreigner,"Top Order Bat",LHB,-,"DELHI DARE DEVILS",150,150,NULL,Unsold
+782,22,"David Miller","South Africa",Foreigner,"Top Order Bat",LHB,-,"DELHI DARE DEVILS",160,150,NULL,Unsold
+783,22,"David Miller","South Africa",Foreigner,"Top Order Bat",LHB,-,"CHENNAI SUPER KINGS",170,150,NULL,Unsold
+784,22,"David Miller","South Africa",Foreigner,"Top Order Bat",LHB,-,"DELHI DARE DEVILS",180,150,NULL,Unsold
+785,22,"David Miller","South Africa",Foreigner,"Top Order Bat",LHB,-,"MUMBAI INDIANS",190,150,NULL,Unsold
+786,22,"David Miller","South Africa",Foreigner,"Top Order Bat",LHB,-,"MUMBAI INDIANS",200,150,NULL,Unsold
+787,22,"David Miller","South Africa",Foreigner,"Top Order Bat",LHB,-,"MUMBAI INDIANS",220,150,NULL,Unsold
+788,22,"David Miller","South Africa",Foreigner,"Top Order Bat",LHB,-,"SUNRISERS HYDERABAD",240,150,NULL,Unsold
+789,22,"David Miller","South Africa",Foreigner,"Top Order Bat",LHB,-,"SUNRISERS HYDERABAD",260,150,NULL,Unsold
+790,22,"David Miller","South Africa",Foreigner,"Top Order Bat",LHB,-,"SUNRISERS HYDERABAD",280,150,NULL,Unsold
+791,22,"David Miller","South Africa",Foreigner,"Top Order Bat",LHB,-,"KINGS XI PUNJAB",300,150,NULL,Sold
+792,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",150,150,NULL,Unsold
+793,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",160,150,NULL,Unsold
+794,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",170,150,NULL,Unsold
+795,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",180,150,NULL,Unsold
+796,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",190,150,NULL,Unsold
+797,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",200,150,NULL,Unsold
+798,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",220,150,NULL,Unsold
+799,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",240,150,NULL,Unsold
+800,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",260,150,NULL,Unsold
+801,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",280,150,NULL,Unsold
+802,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",300,150,NULL,Unsold
+803,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",320,150,NULL,Unsold
+804,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",340,150,NULL,Unsold
+805,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",360,150,NULL,Unsold
+806,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",380,150,NULL,Unsold
+807,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",400,150,NULL,Unsold
+808,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",420,150,NULL,Unsold
+809,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",440,150,NULL,Unsold
+810,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",460,150,NULL,Unsold
+811,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",480,150,NULL,Unsold
+812,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",500,150,NULL,Unsold
+813,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",540,150,NULL,Unsold
+814,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",560,150,NULL,Unsold
+815,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",580,150,NULL,Unsold
+816,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",600,150,NULL,Unsold
+817,18,"Aaron Finch",Australia,Foreigner,"Top Order Bat",RHB,"LA Slow Orthodox","KINGS XI PUNJAB",620,150,NULL,Unsold
+819,21,"Brendon McCullum","New Zealand",Foreigner,"Opening Batsman",RHB,-,"ROYAL CHALLANGERS BANGALORE",200,200,NULL,Unsold
+820,21,"Brendon McCullum","New Zealand",Foreigner,"Opening Batsman",RHB,-,"RAJASTHAN ROYALS",220,200,NULL,Unsold
+821,21,"Brendon McCullum","New Zealand",Foreigner,"Opening Batsman",RHB,-,"ROYAL CHALLANGERS BANGALORE",240,200,NULL,Unsold
+822,21,"Brendon McCullum","New Zealand",Foreigner,"Opening Batsman",RHB,-,"ROYAL CHALLANGERS BANGALORE",260,200,NULL,Unsold
+823,21,"Brendon McCullum","New Zealand",Foreigner,"Opening Batsman",RHB,-,"ROYAL CHALLANGERS BANGALORE",280,200,NULL,Unsold
+824,21,"Brendon McCullum","New Zealand",Foreigner,"Opening Batsman",RHB,-,"RAJASTHAN ROYALS",300,200,NULL,Unsold
+825,21,"Brendon McCullum","New Zealand",Foreigner,"Opening Batsman",RHB,-,"ROYAL CHALLANGERS BANGALORE",320,200,NULL,Unsold
+826,21,"Brendon McCullum","New Zealand",Foreigner,"Opening Batsman",RHB,-,"DELHI DARE DEVILS",340,200,NULL,Unsold
+827,21,"Brendon McCullum","New Zealand",Foreigner,"Opening Batsman",RHB,-,"ROYAL CHALLANGERS BANGALORE",360,200,NULL,Sold
+828,27,"Jason Roy",England,Foreigner,"Wicket Keeper Bat",RHB,-,"DELHI DARE DEVILS",150,150,NULL,Sold
+829,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","MUMBAI INDIANS",200,200,NULL,Unsold
+830,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",220,200,NULL,Unsold
+831,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","MUMBAI INDIANS",240,200,NULL,Unsold
+832,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",260,200,NULL,Unsold
+833,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",280,200,NULL,Unsold
+834,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",300,200,NULL,Unsold
+835,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","MUMBAI INDIANS",320,200,NULL,Unsold
+836,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",340,200,NULL,Unsold
+837,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","MUMBAI INDIANS",360,200,NULL,Unsold
+838,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",380,200,NULL,Unsold
+839,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","MUMBAI INDIANS",400,200,NULL,Unsold
+840,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",420,200,NULL,Unsold
+841,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","MUMBAI INDIANS",440,200,NULL,Unsold
+842,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",460,200,NULL,Unsold
+843,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","MUMBAI INDIANS",480,200,NULL,Unsold
+844,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",500,200,NULL,Unsold
+845,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",520,200,NULL,Unsold
+846,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","RAJASTHAN ROYALS",540,200,NULL,Unsold
+847,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","KOLKATA KNIGHT RIDERS",560,200,NULL,Unsold
+848,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",580,200,NULL,Unsold
+849,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",600,200,NULL,Unsold
+850,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",620,200,NULL,Unsold
+851,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",640,200,NULL,Unsold
+852,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",660,200,NULL,Unsold
+853,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","KOLKATA KNIGHT RIDERS",680,200,NULL,Unsold
+854,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",700,200,NULL,Unsold
+855,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","KOLKATA KNIGHT RIDERS",720,200,NULL,Unsold
+856,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",740,200,NULL,Unsold
+857,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","KOLKATA KNIGHT RIDERS",760,200,NULL,Unsold
+858,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","DELHI DARE DEVILS",780,200,NULL,Unsold
+859,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","KOLKATA KNIGHT RIDERS",800,200,NULL,Unsold
+860,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","ROYAL CHALLANGERS BANGALORE",820,200,NULL,Unsold
+861,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","ROYAL CHALLANGERS BANGALORE",840,200,NULL,Unsold
+862,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","ROYAL CHALLANGERS BANGALORE",860,200,NULL,Unsold
+863,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","ROYAL CHALLANGERS BANGALORE",880,200,NULL,Unsold
+864,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","ROYAL CHALLANGERS BANGALORE",900,200,NULL,Unsold
+865,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","KOLKATA KNIGHT RIDERS",920,200,NULL,Unsold
+866,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","ROYAL CHALLANGERS BANGALORE",940,200,NULL,Unsold
+867,20,"Chris Lynn",Australia,Foreigner,"Opening Batsman",RHB,"LA Slow Orthodox","KOLKATA KNIGHT RIDERS",960,200,NULL,Sold
+868,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",100,100,NULL,Unsold
+869,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",110,100,NULL,Unsold
+870,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",120,100,NULL,Unsold
+871,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",130,100,NULL,Unsold
+872,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",140,100,NULL,Unsold
+873,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",150,100,NULL,Unsold
+874,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",160,100,NULL,Unsold
+875,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",170,100,NULL,Unsold
+876,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",180,100,NULL,Unsold
+877,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",190,100,NULL,Unsold
+878,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",200,100,NULL,Unsold
+879,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",220,100,NULL,Unsold
+880,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",240,100,NULL,Unsold
+881,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",260,100,NULL,Unsold
+882,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",280,100,NULL,Unsold
+883,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",300,100,NULL,Unsold
+884,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",320,100,NULL,Unsold
+885,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",340,100,NULL,Unsold
+886,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",360,100,NULL,Unsold
+887,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",380,100,NULL,Unsold
+888,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",400,100,NULL,Unsold
+889,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",420,100,NULL,Unsold
+890,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",440,100,NULL,Unsold
+891,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",460,100,NULL,Unsold
+892,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",480,100,NULL,Unsold
+893,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",500,100,NULL,Unsold
+894,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",520,100,NULL,Unsold
+895,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",540,100,NULL,Unsold
+896,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",560,100,NULL,Unsold
+897,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",580,100,NULL,Unsold
+898,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","MUMBAI INDIANS",600,100,NULL,Unsold
+899,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",620,100,NULL,Unsold
+900,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",640,100,NULL,Unsold
+901,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",660,100,NULL,Unsold
+902,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",680,100,NULL,Unsold
+903,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",700,100,NULL,Unsold
+904,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",720,100,NULL,Unsold
+905,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",740,100,NULL,Unsold
+906,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",760,100,NULL,Unsold
+907,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",780,100,NULL,Unsold
+908,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",800,100,NULL,Unsold
+909,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",820,100,NULL,Unsold
+910,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",840,100,NULL,Unsold
+911,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",860,100,NULL,Unsold
+912,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",880,100,NULL,Unsold
+913,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",900,100,NULL,Unsold
+914,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",920,100,NULL,Unsold
+915,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",940,100,NULL,Unsold
+917,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",960,100,NULL,Unsold
+918,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","KINGS XI PUNJAB",980,100,NULL,Unsold
+919,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",1000,100,NULL,Unsold
+920,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",1020,100,NULL,Unsold
+921,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",1040,100,NULL,Unsold
+922,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",1060,100,NULL,Unsold
+923,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",1080,100,NULL,Unsold
+924,25,"Manish Pandey",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",1100,100,NULL,Sold
+925,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",200,200,NULL,Unsold
+926,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",220,200,NULL,Unsold
+927,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",240,200,NULL,Unsold
+928,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",260,200,NULL,Unsold
+929,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",280,200,NULL,Unsold
+930,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",300,200,NULL,Unsold
+931,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",320,200,NULL,Unsold
+932,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","ROYAL CHALLANGERS BANGALORE",340,200,NULL,Unsold
+933,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",360,200,NULL,Unsold
+934,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","ROYAL CHALLANGERS BANGALORE",380,200,NULL,Unsold
+935,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",400,200,NULL,Unsold
+936,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","ROYAL CHALLANGERS BANGALORE",420,200,NULL,Unsold
+937,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",440,200,NULL,Unsold
+938,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","ROYAL CHALLANGERS BANGALORE",460,200,NULL,Unsold
+940,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",480,200,NULL,Unsold
+941,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",500,200,NULL,Unsold
+942,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",520,200,NULL,Unsold
+943,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",540,200,NULL,Unsold
+944,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",560,200,NULL,Unsold
+945,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",580,200,NULL,Unsold
+946,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",600,200,NULL,Unsold
+947,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","ROYAL CHALLANGERS BANGALORE",620,200,NULL,Unsold
+948,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",640,200,NULL,Unsold
+949,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","ROYAL CHALLANGERS BANGALORE",660,200,NULL,Unsold
+950,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",680,200,NULL,Unsold
+951,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","ROYAL CHALLANGERS BANGALORE",700,200,NULL,Unsold
+952,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","CHENNAI SUPER KINGS",720,200,NULL,Unsold
+953,38,"Chris Woakes",England,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast Medium","ROYAL CHALLANGERS BANGALORE",740,200,NULL,Sold
+954,30,"Carlos Brathwaite","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Fast Medium","KINGS XI PUNJAB",100,100,NULL,Unsold
+955,30,"Carlos Brathwaite","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Fast Medium","KINGS XI PUNJAB",110,100,NULL,Unsold
+956,30,"Carlos Brathwaite","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Fast Medium","SUNRISERS HYDERABAD",120,100,NULL,Unsold
+957,30,"Carlos Brathwaite","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Fast Medium","KINGS XI PUNJAB",130,100,NULL,Unsold
+958,30,"Carlos Brathwaite","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Fast Medium","SUNRISERS HYDERABAD",140,100,NULL,Unsold
+959,30,"Carlos Brathwaite","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Fast Medium","KINGS XI PUNJAB",150,100,NULL,Unsold
+960,30,"Carlos Brathwaite","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Fast Medium","SUNRISERS HYDERABAD",160,100,NULL,Unsold
+961,30,"Carlos Brathwaite","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Fast Medium","KINGS XI PUNJAB",170,100,NULL,Unsold
+962,30,"Carlos Brathwaite","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Fast Medium","SUNRISERS HYDERABAD",180,100,NULL,Unsold
+963,30,"Carlos Brathwaite","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Fast Medium","KINGS XI PUNJAB",190,100,NULL,Unsold
+964,30,"Carlos Brathwaite","West Indies",Foreigner,"Bat All Rounder",RHB,"RA Fast Medium","SUNRISERS HYDERABAD",200,100,NULL,Sold
+965,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",100,100,NULL,Unsold
+966,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",110,100,NULL,Unsold
+967,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",120,100,NULL,Unsold
+968,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",130,100,NULL,Unsold
+969,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",140,100,NULL,Unsold
+970,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",150,100,NULL,Unsold
+971,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",160,100,NULL,Unsold
+972,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",170,100,NULL,Unsold
+973,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",180,100,NULL,Unsold
+974,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",190,100,NULL,Unsold
+975,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",200,100,NULL,Unsold
+977,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","RAJASTHAN ROYALS",220,100,NULL,Unsold
+978,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",240,100,NULL,Unsold
+979,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","RAJASTHAN ROYALS",260,100,NULL,Unsold
+980,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",280,100,NULL,Unsold
+981,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",300,100,NULL,Unsold
+982,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",320,100,NULL,Unsold
+983,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",340,100,NULL,Unsold
+984,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",360,100,NULL,Unsold
+985,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",380,100,NULL,Unsold
+986,37,"Shane Watson",Australia,Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","CHENNAI SUPER KINGS",400,100,NULL,Sold
+987,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",200,200,NULL,Unsold
+988,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",220,200,NULL,Unsold
+989,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",240,200,NULL,Unsold
+990,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",260,200,NULL,Unsold
+991,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",280,200,NULL,Unsold
+992,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",300,200,NULL,Unsold
+993,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",320,200,NULL,Unsold
+994,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",340,200,NULL,Unsold
+995,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",360,200,NULL,Unsold
+996,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",380,200,NULL,Unsold
+997,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",400,200,NULL,Unsold
+998,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",420,200,NULL,Unsold
+999,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",440,200,NULL,Unsold
+1000,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",460,200,NULL,Unsold
+1001,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","RAJASTHAN ROYALS",480,200,NULL,Unsold
+1002,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",500,200,NULL,Unsold
+1003,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",520,200,NULL,Unsold
+1004,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",540,200,NULL,Unsold
+1005,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",560,200,NULL,Unsold
+1006,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",580,200,NULL,Unsold
+1007,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",600,200,NULL,Unsold
+1008,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",620,200,NULL,Unsold
+1009,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",640,200,NULL,Unsold
+1010,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","SUNRISERS HYDERABAD",660,200,NULL,Unsold
+1011,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",680,200,NULL,Unsold
+1013,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",700,200,NULL,Unsold
+1014,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",740,200,NULL,Unsold
+1015,33,"Kedar Jadhav",India,Indian,"Top Order Bat",RHB,"RA Off Break","CHENNAI SUPER KINGS",780,200,NULL,Sold
+1016,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",75,75,NULL,Unsold
+1017,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","SUNRISERS HYDERABAD",80,75,NULL,Unsold
+1018,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",85,75,NULL,Unsold
+1019,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","SUNRISERS HYDERABAD",90,75,NULL,Unsold
+1020,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",95,75,NULL,Unsold
+1021,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","SUNRISERS HYDERABAD",100,75,NULL,Unsold
+1022,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",110,75,NULL,Unsold
+1023,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","SUNRISERS HYDERABAD",120,75,NULL,Unsold
+1024,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",130,75,NULL,Unsold
+1025,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","SUNRISERS HYDERABAD",140,75,NULL,Unsold
+1026,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",150,75,NULL,Unsold
+1027,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","SUNRISERS HYDERABAD",160,75,NULL,Unsold
+1028,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",170,75,NULL,Unsold
+1029,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","SUNRISERS HYDERABAD",180,75,NULL,Unsold
+1030,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",190,75,NULL,Unsold
+1031,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","SUNRISERS HYDERABAD",200,75,NULL,Unsold
+1032,31,"Colin De Grandhomme","New Zealand",Foreigner,"Bat All Rounder",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",220,75,NULL,Unsold
+1034,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","SUNRISERS HYDERABAD",75,75,NULL,Unsold
+1035,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","SUNRISERS HYDERABAD",80,75,NULL,Unsold
+1036,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","SUNRISERS HYDERABAD",85,75,NULL,Unsold
+1037,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","SUNRISERS HYDERABAD",90,75,NULL,Unsold
+1038,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","SUNRISERS HYDERABAD",95,75,NULL,Unsold
+1039,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","SUNRISERS HYDERABAD",100,75,NULL,Unsold
+1040,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","SUNRISERS HYDERABAD",110,75,NULL,Unsold
+1041,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","SUNRISERS HYDERABAD",120,75,NULL,Unsold
+1042,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","SUNRISERS HYDERABAD",130,75,NULL,Unsold
+1043,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","DELHI DARE DEVILS",140,75,NULL,Unsold
+1044,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","SUNRISERS HYDERABAD",150,75,NULL,Unsold
+1045,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","KINGS XI PUNJAB",160,75,NULL,Unsold
+1046,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","KINGS XI PUNJAB",170,75,NULL,Unsold
+1047,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","KINGS XI PUNJAB",180,75,NULL,Unsold
+1048,35,"Yusuf Pathan",India,Indian,"Bat All Rounder",RHB,"RA Off Break","SUNRISERS HYDERABAD",190,75,NULL,Sold
+1049,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","MUMBAI INDIANS",50,50,NULL,Unsold
+1050,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","DELHI DARE DEVILS",55,50,NULL,Unsold
+1052,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","DELHI DARE DEVILS",60,50,NULL,Unsold
+1053,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","DELHI DARE DEVILS",65,50,NULL,Unsold
+1054,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","MUMBAI INDIANS",70,50,NULL,Unsold
+1055,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","DELHI DARE DEVILS",75,50,NULL,Unsold
+1056,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","MUMBAI INDIANS",80,50,NULL,Unsold
+1057,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","DELHI DARE DEVILS",85,50,NULL,Unsold
+1058,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","MUMBAI INDIANS",90,50,NULL,Unsold
+1059,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","DELHI DARE DEVILS",95,50,NULL,Unsold
+1060,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","MUMBAI INDIANS",100,50,NULL,Unsold
+1061,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","DELHI DARE DEVILS",110,50,NULL,Unsold
+1062,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","RAJASTHAN ROYALS",120,50,NULL,Unsold
+1063,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","DELHI DARE DEVILS",130,50,NULL,Unsold
+1064,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","RAJASTHAN ROYALS",140,50,NULL,Unsold
+1065,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","DELHI DARE DEVILS",150,50,NULL,Unsold
+1066,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","RAJASTHAN ROYALS",160,50,NULL,Unsold
+1068,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","DELHI DARE DEVILS",170,50,NULL,Unsold
+1069,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","RAJASTHAN ROYALS",180,50,NULL,Unsold
+1070,34,"Colin Munro","New Zealand",Foreigner,"Opening Batsman",LHB,"RA Medium","DELHI DARE DEVILS",190,50,NULL,Sold
+1071,29,"Stuart Binny",India,Indian,"Bat All Rounder",RHB,"RA Fast Medium","RAJASTHAN ROYALS",50,50,NULL,Sold
+1072,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","RAJASTHAN ROYALS",200,200,NULL,Unsold
+1073,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",220,200,NULL,Unsold
+1074,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","RAJASTHAN ROYALS",240,200,NULL,Unsold
+1075,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",260,200,NULL,Unsold
+1076,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","RAJASTHAN ROYALS",280,200,NULL,Unsold
+1077,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",300,200,NULL,Unsold
+1078,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","RAJASTHAN ROYALS",320,200,NULL,Unsold
+1079,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","RAJASTHAN ROYALS",340,200,NULL,Unsold
+1080,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",360,200,NULL,Unsold
+1081,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","RAJASTHAN ROYALS",380,200,NULL,Unsold
+1084,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","RAJASTHAN ROYALS",400,200,NULL,Unsold
+1085,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",420,200,NULL,Unsold
+1086,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",440,200,NULL,Unsold
+1087,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",460,200,NULL,Unsold
+1088,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",480,200,NULL,Unsold
+1089,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",500,200,NULL,Unsold
+1092,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","RAJASTHAN ROYALS",520,200,NULL,Unsold
+1093,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",540,200,NULL,Unsold
+1094,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","RAJASTHAN ROYALS",560,200,NULL,Unsold
+1095,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",580,200,NULL,Unsold
+1096,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","RAJASTHAN ROYALS",600,200,NULL,Unsold
+1097,36,"Marcus Stoinis",Australia,Foreigner,"Opening Batsman",RHB,"RA Medium Fast","ROYAL CHALLANGERS BANGALORE",620,200,NULL,Unsold
+1099,28,"Moeen Ali",England,Foreigner,"Bowl All Rounder",LHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",150,150,NULL,Unsold
+1100,28,"Moeen Ali",England,Foreigner,"Bowl All Rounder",LHB,"RA Off Break","CHENNAI SUPER KINGS",160,150,NULL,Unsold
+1101,28,"Moeen Ali",England,Foreigner,"Bowl All Rounder",LHB,"RA Off Break","ROYAL CHALLANGERS BANGALORE",170,150,NULL,Sold
+1102,42,"Quinton De Kock","South Africa",Foreigner,"Wicket Keeper Bat",LHB,-,"ROYAL CHALLANGERS BANGALORE",200,200,NULL,Unsold
+1103,42,"Quinton De Kock","South Africa",Foreigner,"Wicket Keeper Bat",LHB,-,"ROYAL CHALLANGERS BANGALORE",220,200,NULL,Unsold
+1104,42,"Quinton De Kock","South Africa",Foreigner,"Wicket Keeper Bat",LHB,-,"ROYAL CHALLANGERS BANGALORE",240,200,NULL,Unsold
+1105,42,"Quinton De Kock","South Africa",Foreigner,"Wicket Keeper Bat",LHB,-,"MUMBAI INDIANS",260,200,NULL,Unsold
+1106,42,"Quinton De Kock","South Africa",Foreigner,"Wicket Keeper Bat",LHB,-,"ROYAL CHALLANGERS BANGALORE",280,200,NULL,Sold
+1107,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",100,100,NULL,Unsold
+1108,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",110,100,NULL,Unsold
+1109,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",120,100,NULL,Unsold
+1110,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",130,100,NULL,Unsold
+1111,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",140,100,NULL,Unsold
+1112,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",150,100,NULL,Unsold
+1113,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",160,100,NULL,Unsold
+1114,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",170,100,NULL,Unsold
+1115,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",180,100,NULL,Unsold
+1116,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",190,100,NULL,Unsold
+1117,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",200,100,NULL,Unsold
+1118,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"SUNRISERS HYDERABAD",220,100,NULL,Unsold
+1119,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"SUNRISERS HYDERABAD",240,100,NULL,Unsold
+1120,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"SUNRISERS HYDERABAD",260,100,NULL,Unsold
+1121,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"SUNRISERS HYDERABAD",280,100,NULL,Unsold
+1122,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"SUNRISERS HYDERABAD",300,100,NULL,Unsold
+1124,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"SUNRISERS HYDERABAD",340,100,NULL,Unsold
+1125,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",360,100,NULL,Unsold
+1126,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",410,100,NULL,Unsold
+1128,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",440,100,NULL,Unsold
+1129,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",480,100,NULL,Unsold
+1131,47,"Wriddhiman Saha",India,Indian,"Wicket Keeper Bat",RHB,-,"SUNRISERS HYDERABAD",500,100,NULL,Sold
+1132,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"CHENNAI SUPER KINGS",200,200,NULL,Unsold
+1133,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",220,200,NULL,Unsold
+1134,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"CHENNAI SUPER KINGS",240,200,NULL,Unsold
+1135,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",260,200,NULL,Unsold
+1136,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"CHENNAI SUPER KINGS",280,200,NULL,Unsold
+1137,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",300,200,NULL,Unsold
+1138,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"CHENNAI SUPER KINGS",320,200,NULL,Unsold
+1139,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",340,200,NULL,Unsold
+1140,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"CHENNAI SUPER KINGS",360,200,NULL,Unsold
+1142,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",380,200,NULL,Unsold
+1144,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",400,200,NULL,Unsold
+1145,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",420,200,NULL,Unsold
+1146,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",440,200,NULL,Unsold
+1147,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",460,200,NULL,Unsold
+1148,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",480,200,NULL,Unsold
+1150,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",500,200,NULL,Unsold
+1151,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",520,200,NULL,Unsold
+1152,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",540,200,NULL,Unsold
+1153,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",560,200,NULL,Unsold
+1155,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",580,200,NULL,Unsold
+1156,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",600,200,NULL,Unsold
+1157,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",620,200,NULL,Unsold
+1158,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",640,200,NULL,Unsold
+1160,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",660,200,NULL,Unsold
+1161,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",680,200,NULL,Unsold
+1162,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",700,200,NULL,Unsold
+1163,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",720,200,NULL,Unsold
+1164,43,"Dinesh Karthik",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",740,200,NULL,Sold
+1165,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",200,200,NULL,Unsold
+1166,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",220,200,NULL,Unsold
+1167,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",240,200,NULL,Unsold
+1168,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",260,200,NULL,Unsold
+1169,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",280,200,NULL,Unsold
+1170,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",300,200,NULL,Unsold
+1171,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",320,200,NULL,Unsold
+1172,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",340,200,NULL,Unsold
+1173,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",360,200,NULL,Unsold
+1174,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",380,200,NULL,Unsold
+1175,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",400,200,NULL,Unsold
+1176,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",420,200,NULL,Unsold
+1177,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",440,200,NULL,Unsold
+1178,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",460,200,NULL,Unsold
+1179,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",480,200,NULL,Unsold
+1181,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",500,200,NULL,Unsold
+1182,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",520,200,NULL,Unsold
+1183,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",540,200,NULL,Unsold
+1184,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",560,200,NULL,Unsold
+1185,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",580,200,NULL,Unsold
+1186,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",600,200,NULL,Unsold
+1187,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",620,200,NULL,Unsold
+1188,49,"Robin Uthappa",India,Indian,"Wicket Keeper Bat",RHB,-,"KOLKATA KNIGHT RIDERS",640,200,NULL,Sold
+1189,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",100,100,NULL,Unsold
+1190,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",110,100,NULL,Unsold
+1191,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",120,100,NULL,Unsold
+1193,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",130,100,NULL,Unsold
+1194,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",140,100,NULL,Unsold
+1195,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",150,100,NULL,Unsold
+1196,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",160,100,NULL,Unsold
+1197,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",170,100,NULL,Unsold
+1198,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",180,100,NULL,Unsold
+1199,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",190,100,NULL,Unsold
+1200,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",200,100,NULL,Unsold
+1203,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",220,100,NULL,Unsold
+1204,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",240,100,NULL,Unsold
+1205,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",260,100,NULL,Unsold
+1206,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",280,100,NULL,Unsold
+1207,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",300,100,NULL,Unsold
+1208,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",320,100,NULL,Unsold
+1209,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",340,100,NULL,Unsold
+1210,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",360,100,NULL,Unsold
+1211,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",380,100,NULL,Unsold
+1212,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",400,100,NULL,Unsold
+1213,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",420,100,NULL,Unsold
+1214,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",440,100,NULL,Unsold
+1215,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",460,100,NULL,Unsold
+1216,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",480,100,NULL,Unsold
+1217,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",500,100,NULL,Unsold
+1218,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",520,100,NULL,Unsold
+1219,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",540,100,NULL,Unsold
+1220,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",560,100,NULL,Unsold
+1221,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",580,100,NULL,Unsold
+1222,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",600,100,NULL,Unsold
+1223,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",620,100,NULL,Unsold
+1224,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",640,100,NULL,Unsold
+1225,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",660,100,NULL,Unsold
+1226,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",680,100,NULL,Unsold
+1227,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",700,100,NULL,Unsold
+1228,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",720,100,NULL,Unsold
+1231,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",740,100,NULL,Unsold
+1232,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",760,100,NULL,Unsold
+1233,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",780,100,NULL,Unsold
+1234,48,"Sanju Samson",India,Indian,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",800,100,NULL,Sold
+1235,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"MUMBAI INDIANS",50,50,NULL,Unsold
+1236,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"DELHI DARE DEVILS",55,50,NULL,Unsold
+1237,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"DELHI DARE DEVILS",60,50,NULL,Unsold
+1238,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"MUMBAI INDIANS",65,50,NULL,Unsold
+1239,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"DELHI DARE DEVILS",70,50,NULL,Unsold
+1242,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"MUMBAI INDIANS",75,50,NULL,Unsold
+1243,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"MUMBAI INDIANS",80,50,NULL,Unsold
+1244,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"MUMBAI INDIANS",85,50,NULL,Unsold
+1245,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"MUMBAI INDIANS",90,50,NULL,Unsold
+1246,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"MUMBAI INDIANS",95,50,NULL,Unsold
+1247,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"MUMBAI INDIANS",100,50,NULL,Unsold
+1248,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"DELHI DARE DEVILS",110,50,NULL,Unsold
+1249,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"MUMBAI INDIANS",120,50,NULL,Unsold
+1252,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"CHENNAI SUPER KINGS",130,50,NULL,Unsold
+1253,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"CHENNAI SUPER KINGS",140,50,NULL,Unsold
+1254,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"CHENNAI SUPER KINGS",150,50,NULL,Unsold
+1255,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"CHENNAI SUPER KINGS",160,50,NULL,Unsold
+1256,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"CHENNAI SUPER KINGS",170,50,NULL,Unsold
+1257,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"CHENNAI SUPER KINGS",180,50,NULL,Unsold
+1258,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"CHENNAI SUPER KINGS",190,50,NULL,Unsold
+1259,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"RAJASTHAN ROYALS",200,50,NULL,Unsold
+1260,46,"Ambati Rayudu",India,Indian,"Top Order Bat",RHB,-,"CHENNAI SUPER KINGS",220,50,NULL,Sold
+1261,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",150,150,NULL,Unsold
+1262,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",160,150,NULL,Unsold
+1263,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",170,150,NULL,Unsold
+1264,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",180,150,NULL,Unsold
+1265,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",190,150,NULL,Unsold
+1266,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",200,150,NULL,Unsold
+1267,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",220,150,NULL,Unsold
+1268,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",240,150,NULL,Unsold
+1269,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",260,150,NULL,Unsold
+1270,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",280,150,NULL,Unsold
+1271,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",300,150,NULL,Unsold
+1272,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",320,150,NULL,Unsold
+1273,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",340,150,NULL,Unsold
+1275,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",360,150,NULL,Unsold
+1276,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",380,150,NULL,Unsold
+1277,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",400,150,NULL,Unsold
+1280,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"MUMBAI INDIANS",420,150,NULL,Unsold
+1281,41,"Jos Buttler",England,Foreigner,"Wicket Keeper Bat",RHB,-,"RAJASTHAN ROYALS",440,150,NULL,Unsold
+1283,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","DELHI DARE DEVILS",100,100,NULL,Unsold
+1284,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","MUMBAI INDIANS",110,100,NULL,Unsold
+1285,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","DELHI DARE DEVILS",120,100,NULL,Unsold
+1286,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","MUMBAI INDIANS",130,100,NULL,Unsold
+1287,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","DELHI DARE DEVILS",140,100,NULL,Unsold
+1288,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","MUMBAI INDIANS",150,100,NULL,Unsold
+1289,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","DELHI DARE DEVILS",160,100,NULL,Unsold
+1290,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","MUMBAI INDIANS",170,100,NULL,Unsold
+1291,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","DELHI DARE DEVILS",180,100,NULL,Unsold
+1292,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","MUMBAI INDIANS",190,100,NULL,Unsold
+1293,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","DELHI DARE DEVILS",200,100,NULL,Unsold
+1294,56,"Mustafizur Rahman",Bangladesh,Foreigner,"Left arm Fast Bowler",LHB,"LA Fast Medium","MUMBAI INDIANS",220,100,NULL,Sold
+1295,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","CHENNAI SUPER KINGS",200,200,NULL,Unsold
+1296,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","MUMBAI INDIANS",220,200,NULL,Unsold
+1297,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","CHENNAI SUPER KINGS",240,200,NULL,Unsold
+1298,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","MUMBAI INDIANS",260,200,NULL,Unsold
+1299,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","CHENNAI SUPER KINGS",280,200,NULL,Unsold
+1300,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","MUMBAI INDIANS",300,200,NULL,Unsold
+1301,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","CHENNAI SUPER KINGS",320,200,NULL,Unsold
+1302,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","MUMBAI INDIANS",340,200,NULL,Unsold
+1303,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","CHENNAI SUPER KINGS",360,200,NULL,Unsold
+1304,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","MUMBAI INDIANS",380,200,NULL,Unsold
+1305,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","CHENNAI SUPER KINGS",400,200,NULL,Unsold
+1306,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","MUMBAI INDIANS",420,200,NULL,Unsold
+1307,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","CHENNAI SUPER KINGS",440,200,NULL,Unsold
+1308,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","MUMBAI INDIANS",460,200,NULL,Unsold
+1309,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","CHENNAI SUPER KINGS",480,200,NULL,Unsold
+1310,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","MUMBAI INDIANS",500,200,NULL,Unsold
+1311,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","CHENNAI SUPER KINGS",520,200,NULL,Unsold
+1312,50,"Pat Cummins",Australia,Foreigner,"Right Arm Fast Bowler",RHB,"RA Fast","MUMBAI INDIANS",540,200,NULL,Sold
+1313,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",100,100,NULL,Unsold
+1314,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","KINGS XI PUNJAB",110,100,NULL,Unsold
+1315,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",120,100,NULL,Unsold
+1316,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","KINGS XI PUNJAB",130,100,NULL,Unsold
+1317,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",140,100,NULL,Unsold
+1318,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","KINGS XI PUNJAB",150,100,NULL,Unsold
+1319,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",160,100,NULL,Unsold
+1320,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","KINGS XI PUNJAB",170,100,NULL,Unsold
+1321,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",180,100,NULL,Unsold
+1322,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","KINGS XI PUNJAB",190,100,NULL,Unsold
+1323,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",200,100,NULL,Unsold
+1324,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","KINGS XI PUNJAB",220,100,NULL,Unsold
+1325,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",240,100,NULL,Unsold
+1326,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","KINGS XI PUNJAB",260,100,NULL,Unsold
+1327,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",280,100,NULL,Unsold
+1328,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",300,100,NULL,Unsold
+1329,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",320,100,NULL,Unsold
+1330,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","RAJASTHAN ROYALS",340,100,NULL,Unsold
+1331,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",360,100,NULL,Unsold
+1332,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","RAJASTHAN ROYALS",380,100,NULL,Unsold
+1333,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",400,100,NULL,Unsold
+1334,60,"Umesh Yadav",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","ROYAL CHALLANGERS BANGALORE",420,100,NULL,Sold
+1335,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","SUNRISERS HYDERABAD",100,100,NULL,Unsold
+1336,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","SUNRISERS HYDERABAD",110,100,NULL,Unsold
+1337,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","ROYAL CHALLANGERS BANGALORE",120,100,NULL,Unsold
+1338,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","SUNRISERS HYDERABAD",130,100,NULL,Unsold
+1339,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","ROYAL CHALLANGERS BANGALORE",140,100,NULL,Unsold
+1340,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","SUNRISERS HYDERABAD",150,100,NULL,Unsold
+1341,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","ROYAL CHALLANGERS BANGALORE",160,100,NULL,Unsold
+1342,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","SUNRISERS HYDERABAD",170,100,NULL,Unsold
+1343,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","ROYAL CHALLANGERS BANGALORE",180,100,NULL,Unsold
+1344,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","SUNRISERS HYDERABAD",190,100,NULL,Unsold
+1345,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","ROYAL CHALLANGERS BANGALORE",200,100,NULL,Unsold
+1346,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","SUNRISERS HYDERABAD",220,100,NULL,Unsold
+1348,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",240,100,NULL,Unsold
+1349,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","SUNRISERS HYDERABAD",260,100,NULL,Unsold
+1350,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","DELHI DARE DEVILS",280,100,NULL,Unsold
+1351,57,"Mohammed Shami",India,Indian,"Right Arm Fast Bowler",RHB,"RA Fast","SUNRISERS HYDERABAD",300,100,NULL,Unsold
+1353,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","CHENNAI SUPER KINGS",150,150,NULL,Unsold
+1354,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","CHENNAI SUPER KINGS",160,150,NULL,Unsold
+1355,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","CHENNAI SUPER KINGS",170,150,NULL,Unsold
+1356,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","CHENNAI SUPER KINGS",180,150,NULL,Unsold
+1357,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","CHENNAI SUPER KINGS",190,150,NULL,Unsold
+1358,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","RAJASTHAN ROYALS",200,150,NULL,Unsold
+1359,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","CHENNAI SUPER KINGS",220,150,NULL,Unsold
+1360,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","CHENNAI SUPER KINGS",240,150,NULL,Unsold
+1361,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","CHENNAI SUPER KINGS",260,150,NULL,Unsold
+1362,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","RAJASTHAN ROYALS",280,150,NULL,Unsold
+1363,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","CHENNAI SUPER KINGS",300,150,NULL,Unsold
+1364,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","RAJASTHAN ROYALS",320,150,NULL,Unsold
+1365,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","CHENNAI SUPER KINGS",340,150,NULL,Unsold
+1366,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","RAJASTHAN ROYALS",360,150,NULL,Unsold
+1367,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","CHENNAI SUPER KINGS",380,150,NULL,Unsold
+1368,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","RAJASTHAN ROYALS",400,150,NULL,Unsold
+1370,55,"Kagiso Rabada","South Africa",Foreigner,"Right Arm Fast Bowler",LHB,"RA Fast Medium","DELHI DARE DEVILS",420,150,NULL,Sold
+1371,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","RAJASTHAN ROYALS",100,100,NULL,Unsold
+1372,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",110,100,NULL,Unsold
+1373,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","RAJASTHAN ROYALS",120,100,NULL,Unsold
+1374,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",130,100,NULL,Unsold
+1375,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","RAJASTHAN ROYALS",140,100,NULL,Unsold
+1376,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",150,100,NULL,Unsold
+1377,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","RAJASTHAN ROYALS",160,100,NULL,Unsold
+1378,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",170,100,NULL,Unsold
+1379,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","RAJASTHAN ROYALS",180,100,NULL,Unsold
+1380,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",190,100,NULL,Unsold
+1381,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","RAJASTHAN ROYALS",200,100,NULL,Unsold
+1382,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",220,100,NULL,Unsold
+1383,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","RAJASTHAN ROYALS",240,100,NULL,Unsold
+1384,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",260,100,NULL,Unsold
+1385,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","DELHI DARE DEVILS",280,100,NULL,Unsold
+1386,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",300,100,NULL,Unsold
+1387,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","MUMBAI INDIANS",320,100,NULL,Unsold
+1388,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",340,100,NULL,Unsold
+1389,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","MUMBAI INDIANS",360,100,NULL,Unsold
+1390,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",380,100,NULL,Unsold
+1392,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",400,100,NULL,Unsold
+1393,64,"Piyush Chawla",India,Indian,"Away Spinner",LHB,"RA Leg Break","KOLKATA KNIGHT RIDERS",420,100,NULL,Sold
+1394,68,"Muhammad Imran Tahir","South Africa",Foreigner,"Away Spinner",RHB,"RA Leg Break","CHENNAI SUPER KINGS",100,100,NULL,Sold
+1395,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","MUMBAI INDIANS",200,200,NULL,Unsold
+1396,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","MUMBAI INDIANS",220,200,NULL,Unsold
+1397,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",240,200,NULL,Unsold
+1398,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",260,200,NULL,Unsold
+1399,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",280,200,NULL,Unsold
+1400,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",300,200,NULL,Unsold
+1401,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","RAJASTHAN ROYALS",320,200,NULL,Unsold
+1402,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",340,200,NULL,Unsold
+1403,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","RAJASTHAN ROYALS",360,200,NULL,Unsold
+1404,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",380,200,NULL,Unsold
+1405,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",400,200,NULL,Unsold
+1406,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",420,200,NULL,Unsold
+1407,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","RAJASTHAN ROYALS",440,200,NULL,Unsold
+1408,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",460,200,NULL,Unsold
+1409,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",480,200,NULL,Unsold
+1410,66,"Karn Sharma",India,Indian,"Away Spinner",LHB,"RA Leg Break","CHENNAI SUPER KINGS",500,200,NULL,Sold
+1411,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",200,200,NULL,Unsold
+1412,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",220,200,NULL,Unsold
+1413,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","MUMBAI INDIANS",240,200,NULL,Unsold
+1414,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",260,200,NULL,Unsold
+1415,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","MUMBAI INDIANS",280,200,NULL,Unsold
+1417,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",300,200,NULL,Unsold
+1418,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",320,200,NULL,Unsold
+1419,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",340,200,NULL,Unsold
+1420,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",360,200,NULL,Unsold
+1421,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",380,200,NULL,Unsold
+1422,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",400,200,NULL,Unsold
+1423,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",420,200,NULL,Unsold
+1424,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",440,200,NULL,Unsold
+1425,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",460,200,NULL,Unsold
+1426,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",480,200,NULL,Unsold
+1427,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",500,200,NULL,Unsold
+1429,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",520,200,NULL,Unsold
+1430,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",540,200,NULL,Unsold
+1431,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",560,200,NULL,Unsold
+1432,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",580,200,NULL,Unsold
+1433,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",600,200,NULL,Unsold
+1434,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",620,200,NULL,Unsold
+1435,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",640,200,NULL,Unsold
+1436,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",660,200,NULL,Unsold
+1437,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",680,200,NULL,Unsold
+1438,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",700,200,NULL,Unsold
+1439,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",720,200,NULL,Unsold
+1440,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",740,200,NULL,Unsold
+1441,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",760,200,NULL,Unsold
+1442,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",780,200,NULL,Unsold
+1443,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",800,200,NULL,Unsold
+1444,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",820,200,NULL,Unsold
+1445,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",840,200,NULL,Unsold
+1446,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",860,200,NULL,Unsold
+1447,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",880,200,NULL,Unsold
+1448,61,"Rashid Khan Arman",Afghanistan,Foreigner,"Away Spinner",RHB,"RA Leg Break","SUNRISERS HYDERABAD",900,200,NULL,Sold
+1449,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",150,150,NULL,Unsold
+1450,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",160,150,NULL,Unsold
+1451,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",170,150,NULL,Unsold
+1452,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","MUMBAI INDIANS",180,150,NULL,Unsold
+1453,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",190,150,NULL,Unsold
+1454,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",200,150,NULL,Unsold
+1455,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",220,150,NULL,Unsold
+1457,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",240,150,NULL,Unsold
+1459,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",260,150,NULL,Unsold
+1461,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",280,150,NULL,Unsold
+1462,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",300,150,NULL,Unsold
+1463,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",320,150,NULL,Unsold
+1464,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",340,150,NULL,Unsold
+1465,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",360,150,NULL,Unsold
+1466,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",380,150,NULL,Unsold
+1467,65,"Amit Mishra",India,Indian,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",400,150,NULL,Sold
+1468,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",200,200,NULL,Unsold
+1469,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",220,200,NULL,Unsold
+1470,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",240,200,NULL,Unsold
+1471,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",260,200,NULL,Unsold
+1474,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",280,200,NULL,Unsold
+1475,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",300,200,NULL,Unsold
+1476,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",320,200,NULL,Unsold
+1478,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",340,200,NULL,Unsold
+1479,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",360,200,NULL,Unsold
+1480,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",380,200,NULL,Unsold
+1482,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",400,200,NULL,Unsold
+1483,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",420,200,NULL,Unsold
+1484,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","RAJASTHAN ROYALS",440,200,NULL,Unsold
+1485,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",460,200,NULL,Unsold
+1486,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",480,200,NULL,Unsold
+1487,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","KINGS XI PUNJAB",500,200,NULL,Unsold
+1488,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",520,200,NULL,Unsold
+1489,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","MUMBAI INDIANS",540,200,NULL,Unsold
+1490,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","DELHI DARE DEVILS",560,200,NULL,Unsold
+1491,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","MUMBAI INDIANS",580,200,NULL,Unsold
+1492,63,"Yuzvendra Chahal",India,Indian,"Away Spinner",RHB,"RA Leg Break","ROYAL CHALLANGERS BANGALORE",600,200,NULL,Sold

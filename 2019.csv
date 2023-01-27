@@ -1,0 +1,669 @@
+bid_seq,auction_player_slno,name,country,isindian,speciality,Batting_handedness,Bowling_handedness,team_name,bid_amt,base_price,est_auc_prc,Status
+8701,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",50,50,0,Unsold
+8702,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",55,50,0,Unsold
+8703,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",60,50,0,Unsold
+8704,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",65,50,0,Unsold
+8705,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",70,50,0,Unsold
+8706,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",75,50,0,Unsold
+8707,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",80,50,0,Unsold
+8708,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",85,50,0,Unsold
+8709,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",90,50,0,Unsold
+8710,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","MUMBAI INDIANS",95,50,0,Unsold
+8711,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",100,50,0,Unsold
+8712,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","MUMBAI INDIANS",110,50,0,Unsold
+8713,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",120,50,0,Unsold
+8714,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","MUMBAI INDIANS",130,50,0,Unsold
+8715,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",140,50,0,Unsold
+8716,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","MUMBAI INDIANS",150,50,0,Unsold
+8717,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",160,50,0,Unsold
+8718,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","MUMBAI INDIANS",170,50,0,Unsold
+8719,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",180,50,0,Unsold
+8720,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","MUMBAI INDIANS",190,50,0,Unsold
+8721,7,"Hanuma Vihari",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",200,50,0,Sold
+8722,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",50,50,0,Unsold
+8723,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",55,50,0,Unsold
+8724,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",60,50,0,Unsold
+8725,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",65,50,0,Unsold
+8726,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",70,50,0,Unsold
+8727,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",75,50,0,Unsold
+8728,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",80,50,0,Unsold
+8729,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",85,50,0,Unsold
+8730,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",90,50,0,Unsold
+8731,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",95,50,0,Unsold
+8732,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",100,50,0,Unsold
+8733,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",110,50,0,Unsold
+8734,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",120,50,0,Unsold
+8735,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",130,50,0,Unsold
+8736,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",140,50,0,Unsold
+8737,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",150,50,0,Unsold
+8738,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",160,50,0,Unsold
+8739,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",170,50,0,Unsold
+8740,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",180,50,0,Unsold
+8741,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",190,50,0,Unsold
+8742,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",200,50,0,Unsold
+8743,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",220,50,0,Unsold
+8744,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",240,50,0,Unsold
+8745,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",260,50,0,Unsold
+8746,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",280,50,0,Unsold
+8747,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",300,50,0,Unsold
+8748,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",320,50,0,Unsold
+8749,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",340,50,0,Unsold
+8750,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",360,50,0,Unsold
+8751,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",380,50,0,Unsold
+8752,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",400,50,0,Unsold
+8753,3,"Shimron Hetmyer","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Leg Break","ROYAL CHALLANGERS BANGALORE",420,50,0,Sold
+8754,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",75,75,-100,Unsold
+8755,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",80,75,-100,Unsold
+8756,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",85,75,-100,Unsold
+8757,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",90,75,-100,Unsold
+8758,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",95,75,-100,Unsold
+8759,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",100,75,-100,Unsold
+8760,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",110,75,-100,Unsold
+8761,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",120,75,-100,Unsold
+8762,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",130,75,-100,Unsold
+8763,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",140,75,-100,Unsold
+8764,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",150,75,-100,Unsold
+8765,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",160,75,-100,Unsold
+8766,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",170,75,-100,Unsold
+8767,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",180,75,-100,Unsold
+8768,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",190,75,-100,Unsold
+8769,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",200,75,-100,Unsold
+8770,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",220,75,-100,Unsold
+8771,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",240,75,-100,Unsold
+8772,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",260,75,-100,Unsold
+8773,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",280,75,-100,Unsold
+8774,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",300,75,-100,Unsold
+8775,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",320,75,-100,Unsold
+8776,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",340,75,-100,Unsold
+8777,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",360,75,-100,Unsold
+8778,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",380,75,-100,Unsold
+8779,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",400,75,-100,Unsold
+8780,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",420,75,-100,Unsold
+8781,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",440,75,-100,Unsold
+8782,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",460,75,-100,Unsold
+8783,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",480,75,-100,Unsold
+8784,8,"Carlos Brathwaite","West Indies",Foreigner,"All Rounder",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",500,75,-100,Sold
+8785,13,"Gurkeerat Singh",India,Indian,"All Rounder",RHB,"RIGHT ARM Off Break","ROYAL CHALLANGERS BANGALORE",50,50,0,Sold
+8786,9,"Moises Henriques",Australia,Foreigner,"All Rounder",RHB,"RIGHT ARM Medium Fast","KINGS XI PUNJAB",100,100,0,Sold
+8787,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",100,100,0,Unsold
+8789,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",110,100,0,Unsold
+8790,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",120,100,0,Unsold
+8791,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",130,100,0,Unsold
+8792,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",140,100,0,Unsold
+8793,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",150,100,0,Unsold
+8794,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",160,100,0,Unsold
+8795,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",170,100,0,Unsold
+8796,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",180,100,0,Unsold
+8797,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",190,100,0,Unsold
+8798,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",200,100,0,Unsold
+8799,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",220,100,0,Unsold
+8800,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",240,100,0,Unsold
+8801,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",260,100,0,Unsold
+8802,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",280,100,0,Unsold
+8803,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",300,100,0,Unsold
+8804,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",320,100,0,Unsold
+8805,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",340,100,0,Unsold
+8806,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",360,100,0,Unsold
+8807,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",380,100,0,Unsold
+8808,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",400,100,0,Unsold
+8809,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",420,100,0,Unsold
+8810,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",440,100,0,Unsold
+8811,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",460,100,0,Unsold
+8812,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",480,100,0,Unsold
+8813,11,"Axar  Patel",India,Indian,"Indian Spinner",LHB,"LEFT ARM Slow Orthodox","DELHI CAPITALS",500,100,0,Sold
+8814,15,"Jonny Bairstow ",England,Foreigner,"Top Order",RHB,'',"SUNRISERS HYDERABAD",150,150,0,Unsold
+8815,15,"Jonny Bairstow ",England,Foreigner,"Top Order",RHB,'',"KINGS XI PUNJAB",160,150,0,Unsold
+8816,15,"Jonny Bairstow ",England,Foreigner,"Top Order",RHB,'',"SUNRISERS HYDERABAD",170,150,0,Unsold
+8817,15,"Jonny Bairstow ",England,Foreigner,"Top Order",RHB,'',"KINGS XI PUNJAB",180,150,0,Unsold
+8818,15,"Jonny Bairstow ",England,Foreigner,"Top Order",RHB,'',"SUNRISERS HYDERABAD",190,150,0,Unsold
+8819,15,"Jonny Bairstow ",England,Foreigner,"Top Order",RHB,'',"KINGS XI PUNJAB",200,150,0,Unsold
+8820,15,"Jonny Bairstow ",England,Foreigner,"Top Order",RHB,'',"SUNRISERS HYDERABAD",220,150,0,Sold
+8821,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"DELHI CAPITALS",75,75,0,Unsold
+8822,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",80,75,0,Unsold
+8823,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",85,75,0,Unsold
+8824,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",90,75,0,Unsold
+8825,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",95,75,0,Unsold
+8826,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",100,75,0,Unsold
+8827,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",110,75,0,Unsold
+8828,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",120,75,0,Unsold
+8829,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",130,75,0,Unsold
+8830,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",140,75,0,Unsold
+8831,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",150,75,0,Unsold
+8832,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",160,75,0,Unsold
+8833,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",170,75,0,Unsold
+8834,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",180,75,0,Unsold
+8835,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",190,75,0,Unsold
+8836,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",200,75,0,Unsold
+8837,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",220,75,0,Unsold
+8838,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",240,75,0,Unsold
+8839,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",260,75,0,Unsold
+8840,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",280,75,0,Unsold
+8841,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",300,75,0,Unsold
+8842,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",320,75,0,Unsold
+8843,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",340,75,0,Unsold
+8844,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",360,75,0,Unsold
+8845,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",380,75,0,Unsold
+8846,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"ROYAL CHALLANGERS BANGALORE",400,75,0,Unsold
+8847,18,"Nicholas Pooran","West Indies",Foreigner,"Top Order",LHB,'',"KINGS XI PUNJAB",420,75,0,Sold
+8848,19,"Wriddhiman  Saha",India,Indian,"Top Order",RHB,'',"SUNRISERS HYDERABAD",100,100,0,Unsold
+8849,19,"Wriddhiman  Saha",India,Indian,"Top Order",RHB,'',"RAJASTHAN ROYALS",110,100,0,Unsold
+8850,19,"Wriddhiman  Saha",India,Indian,"Top Order",RHB,'',"SUNRISERS HYDERABAD",120,100,0,Sold
+8851,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",150,150,0,Unsold
+8852,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",160,150,0,Unsold
+8853,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",170,150,0,Unsold
+8854,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",180,150,0,Unsold
+8855,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",190,150,0,Unsold
+8856,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",200,150,0,Unsold
+8857,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",220,150,0,Unsold
+8858,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",240,150,0,Unsold
+8859,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",260,150,0,Unsold
+8860,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",280,150,0,Unsold
+8861,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",300,150,0,Unsold
+8862,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",320,150,0,Unsold
+8863,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",340,150,0,Unsold
+8864,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",360,150,0,Unsold
+8865,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",380,150,0,Unsold
+8866,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",400,150,0,Unsold
+8867,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",420,150,0,Unsold
+8868,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",440,150,0,Unsold
+8869,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",460,150,0,Unsold
+8870,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",480,150,0,Unsold
+8871,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","CHENNAI SUPER KINGS",500,150,0,Unsold
+8872,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",520,150,0,Unsold
+8873,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","CHENNAI SUPER KINGS",540,150,0,Unsold
+8874,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",560,150,0,Unsold
+8875,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","CHENNAI SUPER KINGS",580,150,0,Unsold
+8876,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",600,150,0,Unsold
+8877,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","KINGS XI PUNJAB",620,150,0,Unsold
+8878,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",640,150,0,Unsold
+8879,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","KINGS XI PUNJAB",660,150,0,Unsold
+8881,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",680,150,0,Unsold
+8882,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","KINGS XI PUNJAB",700,150,0,Unsold
+8883,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",720,150,0,Unsold
+8884,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","DELHI CAPITALS",740,150,0,Unsold
+8885,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",760,150,0,Unsold
+8886,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","KINGS XI PUNJAB",780,150,0,Unsold
+8887,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",800,150,0,Unsold
+8888,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","KINGS XI PUNJAB",820,150,0,Unsold
+8889,25,"Jaydev Unadkat",India,Indian,"Indian Fast",RHB,"LEFT ARM Medium Fast","RAJASTHAN ROYALS",840,150,0,Sold
+8890,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",75,75,0,Unsold
+8891,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",80,75,0,Unsold
+8892,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",85,75,0,Unsold
+8893,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",90,75,0,Unsold
+8894,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",95,75,0,Unsold
+8895,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",100,75,0,Unsold
+8896,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",110,75,0,Unsold
+8898,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",75,75,0,Unsold
+8899,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",80,75,0,Unsold
+8900,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",85,75,0,Unsold
+8901,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",90,75,0,Unsold
+8902,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",95,75,0,Unsold
+8903,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",100,75,0,Unsold
+8904,23,"Ishant Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",110,75,0,Sold
+8905,21,"Lasith Malinga","Sri Lanka",Foreigner,"Foreign Fast",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",200,200,0,Sold
+8906,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",100,100,0,Unsold
+8907,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","RAJASTHAN ROYALS",110,100,0,Unsold
+8910,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",120,100,0,Unsold
+8911,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","RAJASTHAN ROYALS",130,100,0,Unsold
+8913,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",140,100,0,Unsold
+8914,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",150,100,0,Unsold
+8915,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","RAJASTHAN ROYALS",160,100,0,Unsold
+8916,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",170,100,0,Unsold
+8917,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",180,100,0,Unsold
+8918,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",190,100,0,Unsold
+8919,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",200,100,0,Unsold
+8920,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",220,100,0,Unsold
+8921,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",240,100,0,Unsold
+8922,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",260,100,0,Unsold
+8923,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",280,100,0,Unsold
+8924,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",300,100,0,Unsold
+8925,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",320,100,0,Unsold
+8926,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",340,100,0,Unsold
+8927,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",360,100,0,Unsold
+8928,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",380,100,0,Unsold
+8929,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",400,100,0,Unsold
+8930,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",420,100,0,Unsold
+8931,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",440,100,0,Unsold
+8932,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",460,100,0,Unsold
+8933,22,"Mohammad Shami",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",480,100,0,Sold
+8934,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",50,50,0,Unsold
+8935,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",55,50,0,Unsold
+8936,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",60,50,0,Unsold
+8937,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",65,50,0,Unsold
+8938,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",70,50,0,Unsold
+8939,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",75,50,0,Unsold
+8940,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",80,50,0,Unsold
+8941,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",85,50,0,Unsold
+8942,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",90,50,0,Unsold
+8943,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",95,50,0,Unsold
+8944,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",100,50,0,Unsold
+8945,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",110,50,0,Unsold
+8946,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",120,50,0,Unsold
+8947,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",130,50,0,Unsold
+8948,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",140,50,0,Unsold
+8949,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",150,50,0,Unsold
+8950,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",160,50,0,Unsold
+8951,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",170,50,0,Unsold
+8952,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",180,50,0,Unsold
+8953,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",190,50,0,Unsold
+8954,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",200,50,0,Unsold
+8955,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",220,50,0,Unsold
+8956,20,"Varun Aaron",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",240,50,0,Sold
+8957,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",50,50,0,Unsold
+8958,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",55,50,0,Unsold
+8959,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",60,50,0,Unsold
+8960,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",65,50,0,Unsold
+8961,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",70,50,0,Unsold
+8962,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",75,50,0,Unsold
+8963,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",80,50,0,Unsold
+8964,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",85,50,0,Unsold
+8965,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",90,50,0,Unsold
+8966,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",95,50,0,Unsold
+8967,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",100,50,0,Unsold
+8968,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",110,50,0,Unsold
+8969,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",120,50,0,Unsold
+8970,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",130,50,0,Unsold
+8971,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",140,50,0,Unsold
+8972,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",150,50,0,Unsold
+8973,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",160,50,0,Unsold
+8974,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",170,50,0,Unsold
+8975,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",180,50,0,Unsold
+8976,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",190,50,0,Unsold
+8977,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",200,50,0,Unsold
+8978,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",220,50,0,Unsold
+8979,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",240,50,0,Unsold
+8980,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",260,50,0,Unsold
+8981,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",280,50,0,Unsold
+8982,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",300,50,0,Unsold
+8983,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",320,50,0,Unsold
+8984,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",340,50,0,Unsold
+8985,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",360,50,0,Unsold
+8986,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",380,50,0,Unsold
+8987,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",400,50,0,Unsold
+8988,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",420,50,0,Unsold
+8989,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",440,50,0,Unsold
+8990,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",460,50,0,Unsold
+8991,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",480,50,0,Unsold
+8992,24,"Mohit Sharma",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",500,50,0,Sold
+8994,33,"Devdutt Padikkal",India,Indian,"Top Order",LHB,"RIGHT ARM Off Break","ROYAL CHALLANGERS BANGALORE",20,20,0,Sold
+8995,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",20,20,0,Unsold
+8996,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",25,20,0,Unsold
+8997,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","MUMBAI INDIANS",30,20,0,Unsold
+8998,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",35,20,0,Unsold
+8999,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","MUMBAI INDIANS",40,20,0,Unsold
+9000,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",45,20,0,Unsold
+9001,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","MUMBAI INDIANS",50,20,0,Unsold
+9002,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",55,20,0,Unsold
+9003,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","MUMBAI INDIANS",60,20,0,Unsold
+9004,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",65,20,0,Unsold
+9005,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","MUMBAI INDIANS",70,20,0,Unsold
+9006,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",75,20,0,Unsold
+9007,34,"Anmolpreet Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","MUMBAI INDIANS",80,20,0,Sold
+9008,39,"Sarfaraz Khan",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",20,20,0,Unsold
+9009,39,"Sarfaraz Khan",India,Indian,"Top Order",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",25,20,0,Sold
+9010,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",20,20,0,Unsold
+9011,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",25,20,0,Unsold
+9012,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",30,20,0,Unsold
+9013,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",35,20,0,Unsold
+9014,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",40,20,0,Unsold
+9015,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","RAJASTHAN ROYALS",45,20,0,Unsold
+9016,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",50,20,0,Unsold
+9017,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",55,20,0,Unsold
+9018,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",60,20,0,Unsold
+9019,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",65,20,0,Unsold
+9020,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","KOLKATA KNIGHT RIDERS",70,20,0,Unsold
+9021,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","SUNRISERS HYDERABAD",75,20,0,Unsold
+9022,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",80,20,0,Unsold
+9023,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",85,20,0,Unsold
+9024,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",90,20,0,Unsold
+9025,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",95,20,0,Unsold
+9026,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","CHENNAI SUPER KINGS",100,20,0,Unsold
+9027,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",110,20,0,Unsold
+9028,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",120,20,0,Unsold
+9029,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",130,20,0,Unsold
+9030,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",140,20,0,Unsold
+9031,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",150,20,0,Unsold
+9032,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",160,20,0,Unsold
+9033,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",170,20,0,Unsold
+9034,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",180,20,0,Unsold
+9035,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",190,20,0,Unsold
+9036,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",200,20,0,Unsold
+9037,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",220,20,0,Unsold
+9038,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",240,20,0,Unsold
+9039,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",260,20,0,Unsold
+9040,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",280,20,0,Unsold
+9041,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",300,20,0,Unsold
+9042,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",320,20,0,Unsold
+9043,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",340,20,0,Unsold
+9044,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",360,20,0,Unsold
+9045,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",380,20,0,Unsold
+9046,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",400,20,0,Unsold
+9047,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",420,20,0,Unsold
+9048,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",440,20,0,Unsold
+9049,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",460,20,0,Unsold
+9050,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",480,20,0,Unsold
+9052,38,"Shivam Dube",India,Indian,"Indian Fast",LHB,"RIGHT ARM Fast Medium","ROYAL CHALLANGERS BANGALORE",500,20,0,Sold
+9053,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",20,20,0,Unsold
+9054,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",25,20,0,Unsold
+9055,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",30,20,0,Unsold
+9056,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",35,20,0,Unsold
+9057,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",40,20,0,Unsold
+9058,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",45,20,0,Unsold
+9059,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",50,20,0,Unsold
+9060,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",55,20,0,Unsold
+9061,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",60,20,0,Unsold
+9062,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",65,20,0,Unsold
+9063,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",70,20,0,Unsold
+9064,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",75,20,0,Unsold
+9065,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",80,20,0,Unsold
+9066,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",85,20,0,Unsold
+9067,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",90,20,0,Unsold
+9068,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",95,20,0,Unsold
+9069,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",100,20,0,Unsold
+9070,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",110,20,0,Unsold
+9071,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",120,20,0,Unsold
+9072,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",130,20,0,Unsold
+9073,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",140,20,0,Unsold
+9074,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",150,20,0,Unsold
+9075,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",160,20,0,Unsold
+9076,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",170,20,0,Unsold
+9077,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",180,20,0,Unsold
+9078,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",190,20,0,Unsold
+9079,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",200,20,0,Unsold
+9080,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",220,20,0,Unsold
+9081,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",240,20,0,Unsold
+9082,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",260,20,0,Unsold
+9083,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",280,20,0,Unsold
+9084,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",300,20,0,Unsold
+9086,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",320,20,0,Unsold
+9087,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","CHENNAI SUPER KINGS",340,20,0,Unsold
+9088,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",360,20,0,Unsold
+9090,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",380,20,0,Unsold
+9091,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",400,20,0,Unsold
+9092,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",420,20,0,Unsold
+9093,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",440,20,0,Unsold
+9094,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","DELHI CAPITALS",460,20,0,Unsold
+9095,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",480,20,0,Unsold
+9096,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KOLKATA KNIGHT RIDERS",500,20,0,Unsold
+9097,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",520,20,0,Unsold
+9098,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",540,20,0,Unsold
+9099,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",560,20,0,Unsold
+9100,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",580,20,0,Unsold
+9101,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",600,20,0,Unsold
+9102,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",620,20,0,Unsold
+9103,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",640,20,0,Unsold
+9104,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",660,20,0,Unsold
+9105,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",680,20,0,Unsold
+9106,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KOLKATA KNIGHT RIDERS",700,20,0,Unsold
+9107,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",720,20,0,Unsold
+9110,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",740,20,0,Unsold
+9111,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KOLKATA KNIGHT RIDERS",760,20,0,Unsold
+9112,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KOLKATA KNIGHT RIDERS",780,20,0,Unsold
+9113,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",800,20,0,Unsold
+9114,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KOLKATA KNIGHT RIDERS",820,20,0,Unsold
+9115,37,"Varun Chakaravarthy",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",840,20,0,Sold
+9116,42,"Ankush Bains",India,Indian,"Top Order",RHB,'',"DELHI CAPITALS",20,20,0,Sold
+9117,53,"Nathu Singh",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",20,20,0,Sold
+9118,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",200,200,0,Unsold
+9119,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",220,200,0,Unsold
+9120,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",240,200,0,Unsold
+9121,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",260,200,0,Unsold
+9122,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",280,200,0,Unsold
+9123,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",300,200,0,Unsold
+9124,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",320,200,0,Unsold
+9125,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",340,200,0,Unsold
+9126,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",360,200,0,Unsold
+9127,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",380,200,0,Unsold
+9128,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",400,200,0,Unsold
+9129,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",420,200,0,Unsold
+9130,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",440,200,0,Unsold
+9131,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",460,200,0,Unsold
+9132,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",480,200,0,Unsold
+9133,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",500,200,0,Unsold
+9134,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",520,200,0,Unsold
+9135,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",540,200,0,Unsold
+9136,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",560,200,0,Unsold
+9137,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",580,200,0,Unsold
+9138,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",600,200,0,Unsold
+9139,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","SUNRISERS HYDERABAD",620,200,0,Unsold
+9140,62,"Colin Ingram","South Africa",Foreigner,Openers,LHB,"RIGHT ARM Leg Break","DELHI CAPITALS",640,200,0,Sold
+9141,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","DELHI CAPITALS",200,200,0,Unsold
+9142,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",220,200,0,Unsold
+9143,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","DELHI CAPITALS",240,200,0,Unsold
+9144,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",260,200,0,Unsold
+9145,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","DELHI CAPITALS",280,200,0,Unsold
+9146,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",300,200,0,Unsold
+9147,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","DELHI CAPITALS",320,200,0,Unsold
+9148,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",340,200,0,Unsold
+9149,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","DELHI CAPITALS",360,200,0,Unsold
+9150,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",380,200,0,Unsold
+9151,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","DELHI CAPITALS",400,200,0,Unsold
+9152,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",420,200,0,Unsold
+9153,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",440,200,0,Unsold
+9154,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",460,200,0,Unsold
+9155,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","DELHI CAPITALS",480,200,0,Unsold
+9156,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",500,200,0,Unsold
+9157,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","KINGS XI PUNJAB",520,200,0,Unsold
+9158,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",540,200,0,Unsold
+9159,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",560,200,0,Unsold
+9160,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",580,200,0,Unsold
+9161,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","KINGS XI PUNJAB",600,200,0,Unsold
+9162,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",620,200,0,Unsold
+9163,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","KINGS XI PUNJAB",640,200,0,Unsold
+9164,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",660,200,0,Unsold
+9165,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","KINGS XI PUNJAB",680,200,0,Unsold
+9166,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","ROYAL CHALLANGERS BANGALORE",700,200,0,Unsold
+9167,68,"Samuel Curran",England,Foreigner,"All Rounder",LHB,"LEFT ARM Medium Fast","KINGS XI PUNJAB",720,200,0,Sold
+9168,74,"Heinrich Klaasen","South Africa",Foreigner,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",50,50,0,Sold
+9169,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",50,50,0,Unsold
+9170,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",55,50,0,Unsold
+9171,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",60,50,0,Unsold
+9172,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",65,50,0,Unsold
+9173,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",70,50,0,Unsold
+9174,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",75,50,0,Unsold
+9175,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",80,50,0,Unsold
+9176,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",85,50,0,Unsold
+9177,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",90,50,0,Unsold
+9178,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",95,50,0,Unsold
+9179,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",100,50,0,Unsold
+9180,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",110,50,0,Unsold
+9181,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",120,50,0,Unsold
+9182,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",130,50,0,Unsold
+9183,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",140,50,0,Unsold
+9184,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",150,50,0,Unsold
+9185,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",160,50,0,Unsold
+9186,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",170,50,0,Unsold
+9187,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",180,50,0,Unsold
+9188,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",190,50,0,Unsold
+9189,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",200,50,0,Unsold
+9190,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",220,50,0,Unsold
+9191,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",240,50,0,Unsold
+9192,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",260,50,0,Unsold
+9193,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",280,50,0,Unsold
+9194,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",300,50,0,Unsold
+9195,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","CHENNAI SUPER KINGS",320,50,0,Unsold
+9196,84,"Barinder Sran",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","MUMBAI INDIANS",340,50,0,Sold
+9197,80,"Lockie Ferguson","New Zealand",Foreigner,"Foreign Fast",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",100,100,0,Unsold
+9198,80,"Lockie Ferguson","New Zealand",Foreigner,"Foreign Fast",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",110,100,0,Unsold
+9199,80,"Lockie Ferguson","New Zealand",Foreigner,"Foreign Fast",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",120,100,0,Unsold
+9200,80,"Lockie Ferguson","New Zealand",Foreigner,"Foreign Fast",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",130,100,0,Unsold
+9201,80,"Lockie Ferguson","New Zealand",Foreigner,"Foreign Fast",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",140,100,0,Unsold
+9202,80,"Lockie Ferguson","New Zealand",Foreigner,"Foreign Fast",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",150,100,0,Unsold
+9203,80,"Lockie Ferguson","New Zealand",Foreigner,"Foreign Fast",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",160,100,0,Sold
+9204,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",40,40,0,Unsold
+9205,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","KOLKATA KNIGHT RIDERS",45,40,0,Unsold
+9206,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",50,40,0,Unsold
+9207,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","KOLKATA KNIGHT RIDERS",55,40,0,Unsold
+9208,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",60,40,0,Unsold
+9209,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","KOLKATA KNIGHT RIDERS",65,40,0,Unsold
+9210,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",70,40,0,Unsold
+9211,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",75,40,0,Unsold
+9212,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",80,40,0,Unsold
+9213,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","KOLKATA KNIGHT RIDERS",85,40,0,Unsold
+9214,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",90,40,0,Unsold
+9215,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",95,40,0,Unsold
+9216,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",100,40,0,Unsold
+9217,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","KOLKATA KNIGHT RIDERS",110,40,0,Unsold
+9218,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",120,40,0,Unsold
+9219,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","KOLKATA KNIGHT RIDERS",130,40,0,Unsold
+9220,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",140,40,0,Unsold
+9221,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","KOLKATA KNIGHT RIDERS",150,40,0,Unsold
+9222,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",160,40,0,Unsold
+9223,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","KOLKATA KNIGHT RIDERS",170,40,0,Unsold
+9224,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",180,40,0,Unsold
+9225,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","KOLKATA KNIGHT RIDERS",190,40,0,Unsold
+9226,94,"Sherfane Rutherford","West Indies",Foreigner,"Top Order",LHB,"RIGHT ARM Medium Fast","DELHI CAPITALS",200,40,0,Sold
+9227,99,"Anrich Nortje","South Africa",Foreigner,"Foreign Fast",RHB,"RIGHT ARM Fast","KOLKATA KNIGHT RIDERS",20,20,0,Sold
+9231,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","KINGS XI PUNJAB",50,50,0,Unsold
+9232,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","KINGS XI PUNJAB",55,50,0,Unsold
+9233,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","KINGS XI PUNJAB",60,50,0,Unsold
+9234,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","KINGS XI PUNJAB",65,50,0,Unsold
+9235,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","KINGS XI PUNJAB",70,50,0,Unsold
+9236,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",75,50,0,Unsold
+9237,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","KINGS XI PUNJAB",80,50,0,Unsold
+9238,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",85,50,0,Unsold
+9239,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","KINGS XI PUNJAB",90,50,0,Unsold
+9240,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",95,50,0,Unsold
+9241,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","KINGS XI PUNJAB",100,50,0,Unsold
+9242,134,"Oshane Thomas","West Indies",Foreigner,"Foreign Fast",LHB,"RIGHT ARM Fast","RAJASTHAN ROYALS",110,50,0,Sold
+9243,135,"Hardus Viljoen","South Africa",Foreigner,"Foreign Fast",RHB,"RIGHT ARM Fast","KINGS XI PUNJAB",75,75,0,Sold
+9244,144,"Himmat Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",20,20,0,Unsold
+9245,144,"Himmat Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",25,20,0,Unsold
+9246,144,"Himmat Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",30,20,0,Unsold
+9247,144,"Himmat Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","ROYAL CHALLANGERS BANGALORE",35,20,0,Unsold
+9248,144,"Himmat Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",40,20,0,Unsold
+9249,144,"Himmat Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","ROYAL CHALLANGERS BANGALORE",45,20,0,Unsold
+9250,144,"Himmat Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",50,20,0,Unsold
+9251,144,"Himmat Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","ROYAL CHALLANGERS BANGALORE",55,20,0,Unsold
+9252,144,"Himmat Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",60,20,0,Unsold
+9253,144,"Himmat Singh",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","ROYAL CHALLANGERS BANGALORE",65,20,0,Sold
+9254,160,"Nikhil Naik",India,Indian,"Top Order",RHB,'',"KOLKATA KNIGHT RIDERS",20,20,0,Sold
+9255,176,"Arshdeep Singh",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast Medium","KINGS XI PUNJAB",20,20,0,Sold
+9256,197,"Harry Gurney",England,Foreigner,"Foreign Fast",RHB,"LEFT ARM Fast Medium","KOLKATA KNIGHT RIDERS",75,75,0,Sold
+9257,209,"Pankaj Jaswal",India,Indian,"All Rounder",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",20,20,0,Sold
+9258,211,"Milind Kumar",India,Indian,"All Rounder",RHB,"RIGHT ARM Off Break","ROYAL CHALLANGERS BANGALORE",20,20,0,Sold
+9259,213,"Darshan Nalkande",India,Indian,"All Rounder",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",20,20,0,Unsold
+9260,213,"Darshan Nalkande",India,Indian,"All Rounder",RHB,"RIGHT ARM Fast Medium","RAJASTHAN ROYALS",25,20,0,Unsold
+9261,213,"Darshan Nalkande",India,Indian,"All Rounder",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",30,20,0,Unsold
+9263,213,"Darshan Nalkande",India,Indian,"All Rounder",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",20,20,0,Unsold
+9264,213,"Darshan Nalkande",India,Indian,"All Rounder",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",25,20,0,Unsold
+9265,213,"Darshan Nalkande",India,Indian,"All Rounder",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",30,20,0,Sold
+9266,217,"Shashank Singh",India,Indian,"All Rounder",RHB,"RIGHT ARM Medium Fast","RAJASTHAN ROYALS",20,20,0,Unsold
+9267,217,"Shashank Singh",India,Indian,"All Rounder",RHB,"RIGHT ARM Medium Fast","KINGS XI PUNJAB",25,20,0,Unsold
+9268,217,"Shashank Singh",India,Indian,"All Rounder",RHB,"RIGHT ARM Medium Fast","RAJASTHAN ROYALS",30,20,0,Sold
+9269,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",20,20,0,Unsold
+9270,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",25,20,0,Unsold
+9271,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",30,20,0,Unsold
+9272,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",35,20,0,Unsold
+9273,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",40,20,0,Unsold
+9274,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",45,20,0,Unsold
+9275,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",50,20,0,Unsold
+9276,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",55,20,0,Unsold
+9277,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",60,20,0,Unsold
+9278,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",65,20,0,Unsold
+9279,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",70,20,0,Unsold
+9280,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",75,20,0,Unsold
+9281,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",80,20,0,Unsold
+9282,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",85,20,0,Unsold
+9283,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",90,20,0,Unsold
+9284,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",95,20,0,Unsold
+9285,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",100,20,0,Unsold
+9286,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",110,20,0,Unsold
+9287,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",120,20,0,Unsold
+9288,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",130,20,0,Unsold
+9289,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",140,20,0,Unsold
+9290,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",150,20,0,Unsold
+9291,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",160,20,0,Unsold
+9292,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",170,20,0,Unsold
+9293,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",180,20,0,Unsold
+9294,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",190,20,0,Unsold
+9295,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",200,20,0,Unsold
+9296,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",220,20,0,Unsold
+9297,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",240,20,0,Unsold
+9298,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"ROYAL CHALLANGERS BANGALORE",260,20,0,Unsold
+9299,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",280,20,0,Unsold
+9300,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"MUMBAI INDIANS",300,20,0,Unsold
+9301,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",320,20,0,Unsold
+9302,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"MUMBAI INDIANS",340,20,0,Unsold
+9303,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",360,20,0,Unsold
+9304,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"MUMBAI INDIANS",380,20,0,Unsold
+9305,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",400,20,0,Unsold
+9306,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"MUMBAI INDIANS",420,20,0,Unsold
+9307,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",440,20,0,Unsold
+9308,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"MUMBAI INDIANS",460,20,0,Unsold
+9309,226,"Prabhsimran Singh",India,Indian,"Top Order",RHB,'',"KINGS XI PUNJAB",480,20,0,Sold
+9310,231,"Rasikh Dar",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","MUMBAI INDIANS",20,20,0,Sold
+9311,241,"Prithvi Raj Yarra",India,Indian,"Indian Fast",LHB,"LEFT ARM Fast","KOLKATA KNIGHT RIDERS",20,20,0,Sold
+9312,243,"Liam Livingstone",England,Foreigner,"All Rounder",RHB,"RIGHT ARM Leg Break","RAJASTHAN ROYALS",50,50,0,Sold
+9313,245,"Keemo Paul","West Indies",Foreigner,"Foreign Fast",RHB,"RIGHT ARM Fast","DELHI CAPITALS",50,50,0,Sold
+9314,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","KINGS XI PUNJAB",20,20,0,Unsold
+9315,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","ROYAL CHALLANGERS BANGALORE",25,20,0,Unsold
+9316,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","KINGS XI PUNJAB",30,20,0,Unsold
+9317,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","ROYAL CHALLANGERS BANGALORE",35,20,0,Unsold
+9318,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","KINGS XI PUNJAB",40,20,0,Unsold
+9319,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","ROYAL CHALLANGERS BANGALORE",45,20,0,Unsold
+9320,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","KINGS XI PUNJAB",50,20,0,Unsold
+9322,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","ROYAL CHALLANGERS BANGALORE",55,20,0,Unsold
+9323,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","KINGS XI PUNJAB",60,20,0,Unsold
+9324,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","ROYAL CHALLANGERS BANGALORE",65,20,0,Unsold
+9325,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","KINGS XI PUNJAB",70,20,0,Unsold
+9326,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","ROYAL CHALLANGERS BANGALORE",75,20,0,Unsold
+9327,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","KINGS XI PUNJAB",80,20,0,Unsold
+9328,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","ROYAL CHALLANGERS BANGALORE",85,20,0,Unsold
+9329,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","KINGS XI PUNJAB",90,20,0,Unsold
+9330,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","ROYAL CHALLANGERS BANGALORE",95,20,0,Unsold
+9331,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","KINGS XI PUNJAB",100,20,0,Unsold
+9332,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","ROYAL CHALLANGERS BANGALORE",110,20,0,Unsold
+9333,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","KINGS XI PUNJAB",120,20,0,Unsold
+9334,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","ROYAL CHALLANGERS BANGALORE",130,20,0,Unsold
+9335,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","KINGS XI PUNJAB",140,20,0,Unsold
+9336,262,"Prayas Ray  Barman",India,Indian,"Top Order",RHB,"RIGHT ARM  Leg Break","ROYAL CHALLANGERS BANGALORE",150,20,0,Sold
+9337,301,"Agnivesh Ayachi",India,Indian,"All Rounder",RHB,"RIGHT ARM Fast Medium","KINGS XI PUNJAB",20,20,0,Sold
+9338,303,"Harpreet  Brar",India,Indian,"All Rounder",LHB,"LEFT ARM Slow Orthodox","KINGS XI PUNJAB",20,20,0,Sold
+9339,1,"Martin Guptill","New Zealand",Foreigner,Openers,RHB,'',"SUNRISERS HYDERABAD",100,100,0,Sold
+9340,12,"Yuvraj Singh",India,Indian,"All Rounder",LHB,"LEFT ARM Slow Orthodox","MUMBAI INDIANS",100,100,0,Sold
+9341,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",20,20,0,Unsold
+9342,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",25,20,0,Unsold
+9343,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",30,20,0,Unsold
+9344,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",35,20,0,Unsold
+9345,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",40,20,0,Unsold
+9346,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",45,20,0,Unsold
+9347,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",50,20,0,Unsold
+9348,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",55,20,0,Unsold
+9349,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",60,20,0,Unsold
+9350,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",65,20,0,Unsold
+9351,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",70,20,0,Unsold
+9352,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",75,20,0,Unsold
+9353,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",80,20,0,Unsold
+9354,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",85,20,0,Unsold
+9355,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",90,20,0,Unsold
+9356,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",95,20,0,Unsold
+9357,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",100,20,0,Unsold
+9358,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",110,20,0,Unsold
+9359,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",120,20,0,Unsold
+9360,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",130,20,0,Unsold
+9361,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",140,20,0,Unsold
+9362,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",150,20,0,Unsold
+9363,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",160,20,0,Unsold
+9364,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",170,20,0,Unsold
+9365,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",180,20,0,Unsold
+9366,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",190,20,0,Unsold
+9367,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",200,20,0,Unsold
+9368,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",220,20,0,Unsold
+9369,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",240,20,0,Unsold
+9370,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",260,20,0,Unsold
+9371,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",280,20,0,Unsold
+9372,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",300,20,0,Unsold
+9373,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",320,20,0,Unsold
+9374,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","CHENNAI SUPER KINGS",340,20,0,Unsold
+9375,40,"Akshdeep  Nath",India,Indian,"Top Order",RHB,"RIGHT ARM Medium","ROYAL CHALLANGERS BANGALORE",360,20,0,Sold
+9376,41,"Jalaj Saxena",India,Indian,"All Rounder",RHB,"RIGHT ARM Off Break","DELHI CAPITALS",20,20,0,Sold
+9377,54,"Murugan Ashwin",India,Indian,"Indian Spinner",RHB,"RIGHT ARM Leg Break","KINGS XI PUNJAB",20,20,0,Sold
+9378,86,"Ruturaj Gaikwad",India,Indian,"Top Order",RHB,"RIGHT ARM Off Break","CHENNAI SUPER KINGS",20,20,0,Sold
+9379,93,"Shubham Ranjane",India,Indian,"All Rounder",RHB,"RIGHT ARM Medium Fast","RAJASTHAN ROYALS",20,20,0,Sold
+9380,107,"Joe Denly",England,Foreigner,"Top Order",RHB,"RIGHT ARM Leg Break","KOLKATA KNIGHT RIDERS",100,100,0,Sold
+9381,229,"Bandaru Ayyappa",India,Indian,"Indian Fast",RHB,"RIGHT ARM Fast Medium","DELHI CAPITALS",20,20,0,Sold
+9382,322,"Shrikant Mundhe",India,Indian,"All Rounder",RHB,"RIGHT ARM Fast Medium","KOLKATA KNIGHT RIDERS",20,20,0,Sold
+9383,35,"Manan Vohra",India,Indian,Openers,RHB,'',"RAJASTHAN ROYALS",20,20,0,Sold
+9384,192,"Ashton Turner",Australia,Foreigner,"All Rounder",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",50,50,0,Sold
+9385,266,"Riyan Parag",India,Indian,"All Rounder",RHB,"RIGHT ARM Off Break","RAJASTHAN ROYALS",20,20,0,Sold
